@@ -1,0 +1,175 @@
+﻿crowfolk = {	
+	color = {
+		10
+		10
+		10
+	}
+	
+	ethos = ethos_courtly
+	heritage = heritage_corvus
+	language = language_crowspeak
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_xenophilic
+		tradition_hereditary_hierarchy
+		tradition_avian_hunters
+	}
+
+	dlc_tradition = {
+		trait = tradition_staunch_traditionalists
+		requires_dlc_flag = royal_court
+		fallback = tradition_legalistic
+	}
+
+	name_list = name_list_finnish
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+dwarvish = {
+	color = {750.1.1}
+	
+	ethos = ethos_communal
+	heritage = heritage_outliers
+	language = language_yoruba
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_ancient_miners
+		tradition_mountaineers
+		tradition_storytellers
+		tradition_mountaineer_ruralism
+		tradition_mountain_homes
+	}
+	
+	name_list = name_list_yoruba
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+almalie = {	
+	color = {
+		17
+		251
+		177
+	}
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_outliers
+	language = language_high_germanic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_isolationist
+		tradition_legalistic
+		tradition_stalwart_defenders
+		tradition_roman_legacy
+	}
+
+	dlc_tradition = {
+		trait = tradition_staunch_traditionalists
+		requires_dlc_flag = royal_court
+		fallback = tradition_republican_legacy
+	}
+
+	name_list = name_list_egyptian
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+fornoisan = {	
+	color = {
+		18
+		252
+		119
+	}
+	
+	ethos = ethos_courtly
+	heritage = heritage_outliers
+	language = language_high_germanic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_culture_blending
+		tradition_poetry
+		tradition_wedding_ceremonies
+		tradition_martial_admiration
+		tradition_monastic_communities
+	}
+	
+	name_list = name_list_french
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+faun = {	
+	color = {
+		14
+		237
+		110
+	}
+	
+	ethos = ethos_spiritual
+	heritage = heritage_outliers
+	language = language_high_germanic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_zealous_people
+		tradition_agrarian
+		tradition_pacifism
+		tradition_vegetarianism
+		tradition_strength_in_numbers
+	}
+	
+	name_list = name_list_egyptian
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}

@@ -1,0 +1,5 @@
+﻿30000016 = {
+	name = "Kartoffel"
+	culture = "carthyan"
+}
+

@@ -1,0 +1,4 @@
+﻿30000010 = {
+	name = "Aasimar"
+	culture = "carthyan"
+}

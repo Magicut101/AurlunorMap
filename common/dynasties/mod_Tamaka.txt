@@ -1,0 +1,9 @@
+﻿20000001 = {
+	name = "Di Nekomar"
+	culture = "nekojin"
+}
+
+20000006 = {
+	name = "Taku"
+	culture = "crowfolk"
+}

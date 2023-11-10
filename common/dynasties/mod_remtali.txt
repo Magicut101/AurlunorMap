@@ -1,0 +1,4 @@
+﻿30000009 = {
+	name = "Liberium"
+	culture = "remtali"
+}

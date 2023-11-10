@@ -1,0 +1,4 @@
+﻿30000007 = {
+	name = "Lelya Earcala"
+	culture = "heartlander"
+}

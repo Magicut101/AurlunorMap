@@ -1,0 +1,9 @@
+﻿30000008 = {
+	name = "Meili"
+	culture = "angan"
+}
+
+30000015 = {
+	name = "Lei"
+	culture = "angan"
+}

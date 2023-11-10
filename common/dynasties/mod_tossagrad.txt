@@ -1,0 +1,9 @@
+﻿30000004 = {
+	name = "Tossovich"
+	culture = "ryzani"
+}
+
+30000005 = {
+	name = "Kovalsky"
+	culture = "ryzani"
+}

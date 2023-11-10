@@ -1,0 +1,68 @@
+﻿form_erume_scripted_effect = {
+	#Create the title and set proper de jure
+	hidden_effect = {
+		title:d_erekettribe = {
+			save_scope_as = title_d_erekettribe
+			set_de_jure_liege_title = title:k_erume
+		}
+		title:d_easternwastes = {
+			save_scope_as = title_d_easternwastes
+			set_de_jure_liege_title = title:k_erume
+		}
+		title:d_northernperiphary = {
+			save_scope_as = title_d_northernperiphary
+			set_de_jure_liege_title = title:k_erume
+		}
+		title:d_miandigateway = {
+			save_scope_as = title_d_miandigateway
+			set_de_jure_liege_title = title:k_erume
+		}
+		title:d_elsawiya = {
+			save_scope_as = title_d_elsawiya
+			set_de_jure_liege_title = title:k_erume
+		}
+		title:d_westernswastes = {
+			save_scope_as = title_d_westernswastes
+			set_de_jure_liege_title = title:k_erume
+		}
+		title:d_KadutTribe = {
+			save_scope_as = title_d_KadutTribe
+			set_de_jure_liege_title = title:k_erume
+		}
+		title:d_AnandorErume = {
+			save_scope_as = title_d_AnandorErume
+			set_de_jure_liege_title = title:k_erume
+		}
+		title:k_erume = {
+			save_scope_as = k_erume
+		}
+	}
+	custom_tooltip = form_portugal_decision_effects_de_jure_tt
+
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = title_change
+		add_claim_on_loss = no
+	}
+	title:k_erume = {
+		change_title_holder = {
+			holder = root
+			change = scope:title_change
+		}
+		save_scope_as = title_k_erume
+	}
+	resolve_title_and_vassal_change = scope:title_change
+
+	if = {
+		limit = {
+			NOR = {
+				primary_title = { this = title:k_erume }
+				highest_held_title_tier = tier_empire
+			}
+		}
+		set_primary_title_to = title:k_erume
+	}
+
+	#Prestige
+	add_prestige = massive_prestige_gain	
+}

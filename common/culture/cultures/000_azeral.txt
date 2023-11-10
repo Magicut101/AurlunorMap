@@ -1,0 +1,115 @@
+﻿qanti = {
+	color = { 
+		34
+		130
+		14
+	}
+	
+	ethos = ethos_bellicose
+	heritage = heritage_azeral
+	language = language_yoruba
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_warriors_of_the_dry
+		tradition_saharan_nomads
+		tradition_malleable_invaders
+	}
+	
+	name_list = name_list_edo
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+	ethnicities = {
+		10 = african
+	}
+}
+
+azeral_nomad = {
+	color = { 
+		26 
+		98
+		12
+	}
+	
+	ethos = ethos_communal
+	heritage = heritage_azeral
+	language = language_yoruba
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_saharan_nomads
+		tradition_religion_blending
+	}
+	
+	name_list = name_list_igbo
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+	ethnicities = {
+		10 = african
+	}
+}
+
+miandi = {
+	color = {
+		97
+		12
+		31
+		 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_azeral
+	language = language_kwa
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_saharan_nomads
+		tradition_isolationist
+		tradition_agrarian
+	}
+	
+	name_list = name_list_ewe
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+	ethnicities = {
+		10 = african
+	}
+}
+
+ereket = {
+	color = { 
+		36
+		4
+		11
+		 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_azeral
+ language = language_kwa
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_zealous_people
+		tradition_mystical_ancestors
+		tradition_chivalry
+		tradition_desert_nomads
+	}
+	
+	name_list = name_list_ewe
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+	ethnicities = {
+		10 = african
+	}
+}

@@ -1,0 +1,4 @@
+﻿30000003 = {
+	name = "hees Hephneer"
+	culture = "vologdan"
+}

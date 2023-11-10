@@ -1,0 +1,63 @@
+﻿nekojin = {
+	color = {
+		255
+		200
+		200 
+	}
+	
+	ethos = ethos_communal
+	heritage = heritage_nekojin
+	language = language_nekospeak
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_zealous_people
+		tradition_legalistic
+		tradition_culture_blending
+		tradition_polygamous
+		tradition_loyal_soldiers
+	}
+	
+	name_list = name_list_italian
+	
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+traditional_nekojin = {	
+	color = {750.1.1}
+	
+	ethos = ethos_stoic
+	heritage = heritage_nekojin
+	language = language_nekospeak
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_culture_blending
+		tradition_warriors_of_the_dry
+		tradition_xenophilic
+		tradition_polygamous
+		tradition_dryland_dwellers
+	}
+	
+	name_list = name_list_italian
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}

@@ -1,0 +1,608 @@
+﻿balreskan = {
+	color = {
+		21
+		190
+		248
+	}
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_loyal_soldiers
+		tradition_city_keepers
+		tradition_seafaring
+		tradition_seasoned_merchants
+		tradition_republican_legacy
+	}
+	
+	name_list = name_list_vlach
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+
+remtali = {
+	color = {
+		14
+		127
+		294
+	 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_agrarian
+		tradition_remtali_castle_builders
+		tradition_battlefield_looters
+		tradition_quarrelsome
+		tradition_hereditary_hierarchy
+	}
+	
+	name_list = name_list_russian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+
+xaburyan = {
+	color = {
+		14
+		19
+		204
+	 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_mountain_homes
+		tradition_mystical_ancestors
+		tradition_warrior_monks
+		tradition_Oathbound_Order
+		tradition_religious_patronage
+	}
+	
+	name_list = name_list_slovien
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+
+carthyan = {
+	color = {
+		26
+		69
+		235
+		 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_republican_legacy
+		tradition_parochialism
+		tradition_strength_in_numbers
+		#tradition_industrious
+	}
+	
+	name_list = name_list_slovien
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+#Expert Artisans	dlc tradition check how it works
+ryzani = {
+	color = {
+		19
+		88
+		242 
+	}
+	
+	ethos = ethos_courtly
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_culture_blending
+		tradition_maritime_mercantilism
+		tradition_astute_diplomats
+		tradition_poetry
+	}
+	
+	name_list = name_list_russian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+
+vologdan = {
+	color = {
+		64
+		19
+		242
+		}
+	
+	ethos = ethos_courtly
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_isolationist
+		tradition_zealous_people
+		tradition_castle_keepers
+		tradition_vologdan_knights
+	}
+
+	dlc_tradition = {
+		trait = tradition_staunch_traditionalists
+		requires_dlc_flag = royal_court
+		fallback = tradition_Legalistic
+	}
+
+	name_list = name_list_german
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		45 = slavic_blond
+		5 = slavic_ginger
+		35 = slavic_brown_hair
+		15 = slavic_dark_hair
+	}
+}
+
+syrosi = {
+	color = {
+		7
+		130
+		70
+	}
+	
+	ethos = ethos_stoic
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_isolationist
+		tradition_castle_keepers
+		tradition_maritime_mercantilism
+		tradition_stalwart_defenders
+		tradition_ancient_chloromancers
+	}
+	
+	name_list = name_list_greek
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_brown_hair
+		10 = arab
+		10 = caucasian_dark_hair
+
+	}
+}
+
+deutzani = {	
+	color = {
+		13
+		21
+		121
+	}
+	
+	ethos = ethos_courtly
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_culture_blending
+		tradition_poetry
+		tradition_esteemed_hospitality
+	}
+	
+	name_list = name_list_german
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+nebskoslav = {
+	color = {
+		15
+		25
+		135
+	}
+	
+	ethos = ethos_stoic
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_stand_and_fight
+		tradition_family_entrepreneurship
+		tradition_hereditary_hierarchy
+		tradition_frugal_armorsmiths
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_brown_hair
+		10 = arab
+		10 = caucasian_dark_hair
+
+	}
+}
+
+valkyries = {
+	color = {
+		20
+		30
+		48
+	}
+	
+	ethos = ethos_stoic
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_legalistic
+		tradition_poetry
+		tradition_hereditary_hierarchy
+		tradition_maritime_mercantilism
+		tradition_ruling_caste
+	}
+	
+	name_list = name_list_german
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_brown_hair
+		10 = arab
+		10 = caucasian_dark_hair
+
+	}
+}
+
+dorastterocker = {
+	color = {
+		255
+		255
+		0	
+	}
+	ethos = ethos_bellicose
+	heritage = heritage_brothian
+	language = language_bardonian
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_city_keepers
+		tradition_strength_in_numbers
+		tradition_malleable_invaders
+		tradition_boastful
+		tradition_disloyal_subjects
+	}
+	name_list = name_list_german
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_brown_hair
+		10 = arab
+		10 = caucasian_dark_hair
+	}
+}
+
+annunoren = {
+	color = {
+		20
+		30
+		120
+	}
+	
+	ethos = ethos_communal
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_city_keepers
+		tradition_family_entrepreneurship
+		tradition_loyal_soldiers
+		tradition_staunch_traditionalists
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_brown_hair
+		10 = arab
+		10 = caucasian_dark_hair
+
+	}
+}
+
+solaner = {
+	color = {
+		20
+		30
+		120
+	}
+	
+	ethos = ethos_communal
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_legalistic
+		tradition_family_entrepreneurship
+		tradition_collective_lands
+
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_brown_hair
+		10 = arab
+		10 = caucasian_dark_hair
+
+	}
+}
+
+trostian = {
+	color = {
+		20
+		30
+		120
+	}
+	
+	ethos = ethos_communal
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_castle_keepers
+		tradition_pacifism
+		tradition_philosopher_culture
+		tradition_fishermen
+
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_brown_hair
+		10 = arab
+		10 = caucasian_dark_hair
+
+	}
+}
+
+hyrian = {
+	color = {
+		20
+		30
+		120
+	}
+	
+	ethos = ethos_bellicose
+	heritage = heritage_synderian
+	language = language_ryzani
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_castle_keepers
+		tradition_strength_in_numbers
+		tradition_swords_for_hire
+		tradition_culture_blending
+
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_brown_hair
+		10 = arab
+		10 = caucasian_dark_hair
+
+	}
+}
+
+vasterian = {
+	color = {
+		20
+		30
+		120
+	}
+	
+	ethos = ethos_stoic
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_castle_keepers
+		tradition_stand_and_fight
+		tradition_equitable
+		tradition_zealous_people
+
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_brown_hair
+		10 = arab
+		10 = caucasian_dark_hair
+
+	}
+}
+
+auronite = {
+	color = {
+		20
+		30
+		120
+	}
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_brothian
+	language = language_ryzani
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_castle_keepers
+		tradition_mountain_homes
+		tradition_maritime_mercantilism
+		
+
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_brown_hair
+		10 = arab
+		10 = caucasian_dark_hair
+
+	}
+}
+
+tontoni = {
+	color = {
+		20
+		30
+		120
+	}
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_hadok
+	language = language_ryzani
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_castle_keepers
+		tradition_culture_blending
+		tradition_legalistic
+		tradition_maritime_mercantilism
+		tradition_reverence_for_veterans
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_brown_hair
+		10 = arab
+		10 = caucasian_dark_hair
+
+	}
+}
