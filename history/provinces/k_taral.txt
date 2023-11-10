@@ -1,0 +1,221 @@
+#C ValdamarPath
+589 = {
+	culture = fornoisan
+	religion = twin_dragon
+	holding = castle_holding
+}
+590 = {
+	holding = none
+}
+
+591 = {
+	holding = none
+}
+
+#C SoironRiverFarms
+592 = {
+	culture = fornoisan
+	religion = twin_dragon
+	holding = castle_holding
+}
+593 = {
+	holding = none
+}
+
+594 = {
+	holding = none
+}
+
+#C NornanField
+595 = {
+	culture = fornoisan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+596 = {
+	holding = none
+}
+
+597 = {
+	holding = none
+}
+
+#C ValdamarLowlands
+598 = {
+	culture = fornoisan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+599 = {
+	holding = none
+}
+
+600 = {
+	holding = none
+}
+
+#C Valdamar
+601 = {
+	culture = fornoisan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+602 = {
+	holding = city_holding
+}
+
+603 = {
+	holding = temple_holding
+}
+
+604 = {
+	holding = none
+}
+
+#C foinoisanFarms
+605 = {
+	culture = fornoisan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+606 = {
+	holding = none
+}
+
+607 = {
+	holding = none
+}
+
+608 = {
+	holding = none
+}
+
+#c natsuragitagi1
+609 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+610 = {
+	holding = none
+}
+
+611 = {
+	holding = none
+}
+
+612 = {
+	holding = none
+}
+
+#ThreeCitiesCross
+613 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+614 = {
+	holding = none
+}
+
+615 = {
+	holding = none
+}
+
+#C Autepalar
+616 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+617 = {
+	holding = none
+}
+
+618 = {
+	holding = none
+}
+
+#C lunwirmarpass
+732 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+733 = {
+	holding = none
+}
+
+#C Drakovian
+734 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+735 = {
+	holding = none
+}
+
+736 = {
+	holding = none
+}
+
+#C Lunwirmarcity
+737 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+738 = {
+	holding = none
+}
+
+739 = {
+	holding = none
+}
+
+588 = {
+	holding = none
+}
+
+740 = {
+	culture = fornoisan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+741 = {
+	holding = none
+}
+
+742 = {
+	holding = none
+}
+
+743 = {
+	culture = fornoisan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+744 = {
+	holding = none
+}
+
+745 = {
+	holding = none
+}
+
+746 = {
+	holding = none
+}

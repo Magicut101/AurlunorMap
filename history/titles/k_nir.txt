@@ -1,0 +1,57 @@
+c_Hloamar = {
+	867.1.1 = {	change_development_level = 12 }
+	1054.1.1 = {
+	holder = 600012 # mao meili
+	}
+}
+
+c_HelemarBeach = {
+	867.1.1 = {	change_development_level = 3 }
+	1054.1.1 = {
+	holder = 600012 # mao meili
+	}
+}
+
+c_OrchidsPath = {
+	867.1.1 = {	change_development_level = 3 }
+	1054.1.1 = {
+	holder = 600012 # mao meili
+	}
+}
+
+c_WitchsWay = {
+	867.1.1 = {	change_development_level = 1 }
+	1054.1.1 = {
+	holder = 600012 # mao meili
+	}
+}
+
+c_HunhsuiLagoon = {
+	867.1.1 = {	change_development_level = 1 }
+	1054.1.1 = {
+	holder = 600012 # mao meili
+	}
+}
+
+#sun lei  # The lilypads owner I believe
+
+c_TheLilyPad = {
+	867.1.1 = {	change_development_level = 7 }
+	1054.1.1 = {
+	holder = 600019 #sun lei  # im unsure who they were in discord
+	}
+}
+
+c_Silamar = {
+	867.1.1 = {	change_development_level = 2 }
+	1054.1.1 = {
+	holder = 600019 #sun lei  # im unsure who they were in discord
+	}
+}
+
+c_Shenhua = {
+	867.1.1 = {	change_development_level = 1 }
+	1054.1.1 = {
+	holder = 600019 #sun lei  # im unsure who they were in discord
+	}
+}

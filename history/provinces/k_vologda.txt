@@ -1,0 +1,82 @@
+# c_VologdanMarshes
+961 = {
+	culture = vologdan
+	religion = the_one_true_faith
+	holding = castle_holding
+}
+
+962 = {
+	holding = none
+}
+
+963 = {
+	holding = none
+}
+
+#c_Vologda
+964 = {
+	culture = vologdan
+	religion = the_one_true_faith
+	holding = castle_holding
+	duchy_capital_building = vologdan_walls_01
+}
+
+965 = {
+	holding = temple_holding
+}
+
+966 = {
+	holding = city_holding
+}
+
+967 = {
+	holding = none
+}
+
+968 = {
+	holding = none
+}
+
+#c_NorthVologda
+969 = {
+	culture = vologdan
+	religion = the_one_true_faith
+	holding = castle_holding
+}
+
+970 = {
+	holding = none
+}
+
+971 = {
+	holding = none
+}
+
+972 = {
+	holding = none
+}
+
+#c_BerezanLightHouse
+
+973 = { 
+	culture = vologdan
+	religion = the_one_true_faith
+	holding = castle_holding
+}
+
+#c_PheonoxianExodus
+
+974 = { 
+	culture = carthyan
+	religion = the_one_true_faith
+	holding = castle_holding
+}
+
+975 = {
+	holding = none
+}
+
+976 = {
+	holding = none
+}
+

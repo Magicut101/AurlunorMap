@@ -1,0 +1,66 @@
+﻿syrosi = {
+	color = {
+		7
+		12
+		70
+	}
+	
+	ethos = ethos_stoic
+	heritage = heritage_azararni
+	language = language_Syrosi
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_isolationist
+		tradition_castle_keepers
+		tradition_maritime_mercantilism
+		tradition_stalwart_defenders
+		tradition_ancient_chloromancers
+	}
+	
+	name_list = name_list_greek
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+	ethnicities = {
+		10 = caucasian_brown_hair
+		10 = arab
+		10 = caucasian_dark_hair
+
+	}
+}
+
+crownlander = {	
+	color = {
+		13
+		21
+		121
+	}
+	
+	ethos = ethos_courtly
+	heritage = heritage_azararni
+	language = language_high_germanic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_culture_blending
+		tradition_poetry
+		tradition_esteemed_hospitality
+	}
+	
+	name_list = name_list_egyptian
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}

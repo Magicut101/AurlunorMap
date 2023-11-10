@@ -1,0 +1,206 @@
+864 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+865 = {
+	holding = none
+}
+
+866 = {
+	holding = none
+}
+
+867 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+868 = {
+	holding = none
+}
+
+869 = {
+	holding = none
+}
+
+870 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+871 = {
+	holding = none
+}
+
+872 = {
+	holding = none
+}
+
+873 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+874 = {
+	holding = none
+}
+
+875 = {
+	holding = none
+}
+
+876 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+877 = {
+	holding = none
+}
+
+878 = {
+	holding = none
+}
+
+879 = {
+	holding = none
+}
+
+#C_Weidao
+885 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+886 = {
+	holding = none
+}
+
+#C_lonya
+887 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+888 = {
+	holding = none
+}
+
+889 = {
+	holding = none
+}
+
+#C_Lhumar
+890 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+	duchy_capital_building = dragon_palaza_01
+}
+
+891 = {
+	holding = city_holding
+}
+
+892 = {
+	holding = temple_holding
+}
+
+893 = {
+	holding = castle_holding
+}
+
+894 = {
+	holding = castle_holding
+}
+
+895 = {
+	holding = temple_holding
+}
+
+896 = {
+	holding = none
+}
+
+#C_alfhuang
+889 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+900 = {
+	holding = none
+}
+
+901 = {
+	holding = none
+}
+
+#c_tanyan
+902 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+903 = {
+	holding = none
+}
+
+904 = {
+	holding = none
+}
+
+905 = {
+	holding = none
+}
+
+#c_yamuwei
+906 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+907 = {
+	holding = none
+}
+
+908 = {
+	holding = none
+}
+
+#yamudawou
+909 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+910 = {
+	holding = none
+}
+
+911 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+#c_piken
+912 = {
+	holding = none
+}
+
+913 = {
+	holding = none
+}

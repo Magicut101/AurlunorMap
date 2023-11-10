@@ -1,0 +1,372 @@
+
+119 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+120 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+121 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+122 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+123 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+124 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+125 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+126 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+127 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+128 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+129 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+130 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+131 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+132 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+133 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+134 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+135 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+136 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+137 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+138 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+139 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+140 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+141 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+142 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+143 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+144 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+145 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+146 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+147 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+148 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+149 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+150 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+151 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+152 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+153 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+154 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+155 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+156 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+157 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+158 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+159 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+160 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+161 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+162 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+163 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+164 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+165 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+166 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+167 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+168 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+169 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+170 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+171 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+172 = {
+	culture = ereket 
+	religion = soleannen
+	holding = tribal_holding
+}
+
+173 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+174 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}

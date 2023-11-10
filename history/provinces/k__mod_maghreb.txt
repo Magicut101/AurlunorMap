@@ -1,0 +1,6 @@
+1 = {
+	culture = xaburyan
+	religion = ashuran_pantheon
+	holding = tribal_holding
+}
+

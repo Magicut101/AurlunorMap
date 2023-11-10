@@ -1,0 +1,100 @@
+d_syros = {
+	867.1.1 = {	change_development_level = 1 }
+
+	1054.1.1 = {
+	holder = 600001
+	}
+}
+
+c_syros = {
+	867.1.1 = {	change_development_level = 7 }
+	
+	1054.1.1 = {
+		holder = 600001
+		}
+	
+}
+
+c_heimsk = {
+	867.1.1 = {	change_development_level = 3 }
+
+	1054.1.1 = {
+		holder = 600001
+	}
+}
+
+c_nadzjieja = {
+	867.1.1 = {	change_development_level = 1 }
+
+	1054.1.1 = {
+		holder = 600003
+		liege = 0
+	}
+}
+
+#Balreska under greentoss
+b_Balreska = {
+	1054.1.1 = {
+	effect = { set_capital_barony = yes }
+	}
+}
+
+c_Balreska = {
+	867.1.1 = {	change_development_level = 7 }
+
+	1054.1.1 = {
+		holder = 600008
+		liege = 0
+	}
+}
+
+c_ForeignQuarter = {
+	867.1.1 = {	change_development_level = 3 }
+
+	1054.1.1 = {
+		holder = 600008
+		liege = 0
+	}
+}
+
+
+# Duchy of Haegiel
+d_haegiel = {
+	867.1.1 = {	change_development_level = 1 }
+	1054.1.1 = {
+		holder = 600006
+	}
+}
+
+b_Haegiel = {
+	1054.1.1 = {
+	effect = { set_capital_barony = yes }
+	}
+
+}
+
+c_Haegiel ={
+	867.1.1 = {	change_development_level = 12 }
+	1054.1.1 = {
+	holder = 600006
+	}
+
+}
+
+c_coopers_landing = {
+	867.1.1 = {	change_development_level = 6 }
+
+	1054.1.1 = {
+		holder = 600007
+		liege = 0
+	}
+}
+
+c_AlumHighlands = {
+	867.1.1 = {	change_development_level = 2 }
+
+	1054.1.1 = {
+		holder = 600007
+		liege = 0
+	}
+}

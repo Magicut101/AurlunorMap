@@ -1,0 +1,194 @@
+#c_tonton
+977 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+	1165.1.1 = {
+		culture = ryzani
+	}
+}
+
+978 = {
+	holding = city_holding
+}
+
+979 = {
+	holding = church_holding
+}
+
+980 = {
+	holding = none
+}
+
+981 = {
+	holding = none
+}
+
+#c_eriikannka
+982 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+	1165.1.1 = {
+		culture = ryzani
+	}
+}
+
+983 = {
+	holding = city_holding
+}
+
+984 = {
+	holding = none
+}
+#c_ignickza
+985 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+986 = {
+	holding = church_holding
+}
+
+987 = {
+	holding = none
+}
+
+988 = {
+	holding = none
+}
+
+#c_neuheim
+989 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+990 = {
+	holding = church_holding
+}
+
+1014 = {
+	holding = city_holding
+}
+
+1015 = {
+	holding = none
+}
+
+#C_orenia
+991 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+992 = {
+	holding = none
+}
+
+993 = {
+	holding = none
+}
+
+994 = {
+	holding = none
+}
+
+995 = {
+	holding = none
+}
+
+#c_verkhnya
+996 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+997 = {
+	holding = none
+}
+
+998 = {
+	holding = none
+}
+
+999 = {
+	holding = none
+}
+
+#c_neuboloto
+1000 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1001 = {
+	holding = none
+}
+
+1002 = {
+	holding = none
+}
+
+#fake astor
+1003 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1004 = {
+	holding = none
+}
+
+1005 = {
+	holding = none
+}
+
+#nova balreska
+
+1009 = {
+	culture = balreskan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1006 = {
+	holding = city_holding
+}
+
+1007 = {
+	holding = church_holding
+}
+
+1008 = {
+	holding = none
+}
+
+#duristbog
+1010 = {
+	culture = balreskan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1011 = {
+	holding = none
+}
+
+#orenia woods
+1012 = {
+	culture = balreskan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1013 = {
+	holding = none
+}

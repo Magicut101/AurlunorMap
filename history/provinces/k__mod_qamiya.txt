@@ -1,0 +1,403 @@
+3 = {
+	#b_CapeMasun
+	culture = ashuran
+	religion = ashuran_pantheon
+	holding = castle_holding
+	duchy_capital_building = obelisk_of_qamiya_01
+}
+
+4 = {
+	#b_QamiyaCity
+	religion = ashuran_pantheon
+	holding = city_holding
+	1054.1.1 = {
+		holding = city_holding
+		}
+}
+
+5 = {
+	#b_QamiyaCastle
+	religion = ashuran_pantheon
+	holding = none
+	1054.1.1 = {
+		holding = none
+		}
+}
+
+6 = {
+	#b_QamiyaTemple
+	religion = ashuran_pantheon
+	holding = none
+	1054.1.1 = {
+		holding = none
+		}
+}
+
+7 = {
+	#b_QamiyaHolding
+	religion = ashuran_pantheon
+	holding = none
+	1054.1.1 = {
+		holding = none
+		}
+}
+
+8 = {
+	#b_MukantagarasTemples
+	culture = ashuran
+	religion = ashuran_pantheon
+	holding = tribal_holding
+	1054.1.1 = {
+		holding = tribal_holding
+		}
+}
+
+9 = {	
+	#b_MukantagarasHolding
+	holding = none
+	1054.1.1 = {
+		holding = none
+		}
+}
+
+
+10 = {
+	#b_MukantagarasCastle
+	holding = none
+	1054.1.1 = {
+		holding = none
+		}
+}
+
+11 = {
+	#b_Nirine_IretuLeft
+	culture = ashuran
+	religion = ashuran_pantheon
+	holding = tribal_holding
+	1054.1.1 = {
+		holding = tribal_holding
+		}
+}
+
+12 = {
+	#b_Nirine_iretuRight
+	holding = none
+	1054.1.1 = {
+		holding = none
+		}
+}
+
+13 = {
+	#b_NirineHajiaoCastle
+	culture = ashuran
+religion = ashuran_pantheon
+	holding = castle_holding
+	1054.1.1 = {
+		holding = castle_holding
+		}
+}
+
+14 = {
+	#b_NirineHajiaoHill
+	holding = none
+	1054.1.1 = {
+		holding = none
+		}
+}
+
+15 = {
+	#b_NirineHajiaoSpa
+	holding = none
+	1054.1.1 = {
+		holding = none
+		}
+}
+
+16 = {
+	#b_aashkotis1
+	culture = ashuran
+religion = ashuran_pantheon
+	holding = tribal_holding
+	1054.1.1 = {
+		holding = tribal_holding
+		}
+}
+
+17 = {
+	#b_aashkotis2
+	holding = none
+	1054.1.1 = {
+		holding = none
+		}
+}
+
+18 = {
+	#b_aashkotis3
+	holding = none
+	1054.1.1 = {
+		holding = none
+		}
+}
+
+19 = {
+	#b_Ebonimembal1
+	culture = ashuran
+religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+20 = {
+	#b_Ebonimembal2
+	holding = none
+	1054.1.1 = {
+		holding = none
+		}
+}
+
+21 = {
+	#b_Ebonimembal3
+	holding = none
+	1054.1.1 = {
+		holding = none
+		}
+}
+
+22 = {
+	#b_Ebonimembal4
+	holding = none
+	1054.1.1 = {
+		holding = none
+		}
+}
+
+23 = {
+	#b_DjinnsManorTemple
+	culture = ashuran
+religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+24 = {
+	#b_DjinnsManorVillage
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+25 = {
+	#b_DjinnsManorHolding
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+26 = {
+	#b_DjinnsManorSection
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+27 = {
+	#b_DjunseStables
+	culture = ashuran
+religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+28 = {
+	#b_DjunseCity
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+29 = {
+	#b_DjunseHolding
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+30 = {
+	#b_KhamenManor
+	culture = ashuran
+religion = ashuran_pantheon
+	holding = tribal_holding
+	1054.1.1 = {
+		holding = castle_holding
+		}
+}
+
+31 = {
+	#b_KhamenExpanded1
+	holding = none
+	1065.1.1 = { 
+		holding = city_holding
+	}
+}
+
+32 = {
+	#b_KhamenExpanded2
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+33 = {
+	#b_OramanPass
+	culture = ashuran
+	religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+34 = {
+	#b_OramanHolding
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+35 = {
+	#b_OromanBridge
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+36 = {
+	#b_AlQamiyasFarm
+	culture = ashuran
+religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+37 = {
+	#b_AlQamiyasHold
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+38 = {
+	#b_Anopis
+	culture = ashuran
+religion = ashuran_pantheon
+	holding = castle_holding
+}
+
+39 = {
+	#b_MenatKahunCity
+	holding = none
+	1065.1.1 = { 
+		holding = city_holding
+	}
+}
+
+40 = {
+	#b_MenatKahunHolding
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+41 = {
+	#b_HewepetNatir
+	culture = ashuran
+religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+42 = {
+	#b_FourSagesMosqueVillage
+	holding = none
+}
+
+43 = {
+	#b_OramanBridge
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+44 = {
+	#b_FourSagesMosqueHolding
+	holding = none
+}
+
+45 = {
+	#b_Yenedu1	
+	culture = ashuran
+religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+46 = {
+	#b_Yenedu2
+	holding = none
+}
+
+47 = {
+	#b_Yenedu3
+	culture = ashuran
+	religion = ashuran_pantheon
+	holding = tribal_holding
+	}
+
+48 = {
+	#b_Yenedu4
+	holding = none
+}
+
+49 = {
+	#b_NekalNedu1
+	culture = ashuran
+religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+50 = {
+	#b_NekalNedu2
+	holding = none
+}
+
+51 = {
+	#b_Osaro
+	culture = ashuran
+religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+52 = {
+	#b_NirineBetu1
+	holding = none
+}
+
+53 = {
+	#b_NirineBetu2
+	holding = none
+}
+
+54 = {
+	#b_Tlallteyotlan1
+	culture = ashuran
+religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+55 = {
+	##b_Tlallteyotlan1 
+	holding = none
+}
+

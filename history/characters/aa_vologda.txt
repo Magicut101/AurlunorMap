@@ -1,0 +1,17 @@
+600004 = {
+	name = "Falyn Fardhac"
+	dynasty = 30000003
+	religion = "the_one_true_faith"
+	culture = "vologdan"
+	trait = patient
+	trait = just
+	trait = diligent
+	trait = education_stewardship_3
+	martial = 9
+	stewardship = 10
+	#father = 145930
+	1040.1.1 = {
+		birth = "820.1.1"
+	}
+	#dna = 
+}

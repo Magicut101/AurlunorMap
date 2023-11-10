@@ -1,0 +1,152 @@
+#k_beletea
+87 = {
+	culture = qanti
+	religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+88 = {
+	holding = none
+}
+
+89 = {
+	holding = none
+}
+
+90 = {
+	culture = qanti
+	religion = ashuran_pantheon	
+	holding = tribal_holding
+}
+
+91 = {
+	culture = qanti
+	religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+92 = {
+	culture = qanti
+	religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+93 = {
+	holding = none
+}
+
+94 = {
+	culture = qanti
+	religion = ashuran_pantheon
+	holding = tribal_holding	
+}
+
+95 = {
+	holding = none
+}
+
+96 = {
+	holding = none
+}
+
+97 = {
+	holding = none
+}
+
+98 = {
+	holding = none
+}
+
+99 = {
+	culture = qanti
+	religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+100 = {
+	holding = none
+}
+
+101 = {
+	holding = none
+}
+
+102 = {
+	culture = qanti
+	religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+103 = {
+	holding = none
+}
+
+104 = {
+	holding = none
+}
+
+105 = {
+	culture = qanti
+	religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+106 = {
+	holding = none
+}
+
+107 = {
+	holding = none
+}
+
+108 = {
+	holding = none
+}
+
+109 = {
+	holding = none
+}
+
+110 = {
+	culture = qanti
+	religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+111 = {
+	holding = none
+}
+
+112 = {
+	holding = none
+}
+
+113 = {
+	culture = qanti
+	religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+114 = {
+	holding = none
+}
+
+115 = {
+	holding = none
+}
+
+116 = {
+	culture = qanti
+	religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+117 = {
+	culture = qanti
+	religion = ashuran_pantheon
+	holding = tribal_holding
+}
+
+118 = {
+	holding = none
+}

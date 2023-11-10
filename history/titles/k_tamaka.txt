@@ -1,0 +1,70 @@
+# kaluko duchy
+c_Kaluko = {
+	867.1.1 = {	change_development_level = 11 }
+	1054.1.1 = {
+	holder = 600010 # Krow
+	}
+	}
+
+	c_Zalisko = {
+		867.1.1 = {	change_development_level = 7 }
+		1054.1.1 = {
+		holder = 600010
+		}
+		}
+
+	c_Que = {
+		867.1.1 = {	change_development_level = 3 }
+		1054.1.1 = {
+		holder = 600010
+			}
+		}
+
+	c_Ajmenkol = {
+		867.1.1 = {	change_development_level = 4 }
+		1054.1.1 = {
+		holder = 600010
+			}
+		}
+	c_Bayalis = {
+		867.1.1 = {	change_development_level = 1 }
+		1054.1.1 = {
+		holder = 600010
+			}
+		}
+
+#Nekomar Duchy
+c_nekomar = {
+867.1.1 = {	change_development_level = 3 }
+1054.1.1 = {
+holder = 600002 # Nori
+}
+}
+
+c_Squaa = {
+	867.1.1 = {	change_development_level = 1 }
+	1054.1.1 = {
+	holder = 600002
+	}
+}
+
+c_MarchOfTears = {
+	867.1.1 = {	change_development_level = 1 }
+	1054.1.1 = {
+	holder = 600002
+	}
+}
+
+c_TzaUmtil = {
+	867.1.1 = {	change_development_level = 1 }
+	1054.1.1 = {
+	holder = 600002
+	}
+}
+
+c_Cemnamar = {
+	867.1.1 = {	change_development_level = 1 }
+	1054.1.1 = {
+	holder = 600002
+	}
+}

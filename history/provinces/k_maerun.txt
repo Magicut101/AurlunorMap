@@ -1,0 +1,90 @@
+#Maerun
+655 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+656 = {
+	holding = city_holding
+}
+
+657 = {
+	holding = temple_holding
+}
+
+658 = {
+	culture = angan
+	religion = twin_dragon
+	holding = city_holding
+}
+
+659 = {
+	holding = none
+}
+
+660 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = city_holding
+}
+
+661 = {
+	holding = none
+}
+
+662 = {
+	holding = none
+}
+
+663 = {
+	culture = angan
+	religion = twin_dragon
+	holding = city_holding
+}
+
+664 = {
+	holding = none
+}
+
+805 = {
+	culture = angan
+	religion = twin_dragon
+	holding = city_holding
+}
+
+806 = {
+	holding = none
+}
+
+807 = {
+	holding = none
+}
+
+808 = {
+	culture = angan
+	religion = twin_dragon
+	holding = city_holding
+}
+
+809 = {
+	holding = none
+}
+
+810 = {
+	holding = none
+}
+
+811 = {
+	culture = angan
+	religion = twin_dragon
+	holding = city_holding
+}
+
+812 = {
+	holding = none
+}
+
+813 = {
+	holding = none
+}

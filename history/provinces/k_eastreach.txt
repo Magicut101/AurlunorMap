@@ -1,0 +1,395 @@
+1699 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1700 = {
+	holding = none
+}
+
+1701 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1702 = {
+	holding = none
+}
+
+1703 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1704 = {
+	holding = none
+}
+
+1705 = {
+	holding = none
+}
+
+1706 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1707 = {
+	holding = none
+}
+
+1708 = {
+	holding = none
+}
+
+1709 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1710 = {
+	holding = none
+}
+
+1711 = {
+	holding = none
+}
+
+1712 = {
+	holding = none
+}
+
+1713 = {
+	holding = none
+}
+
+1714 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1715 = {
+	holding = none
+}
+
+1716 = {
+	holding = none
+}
+
+1717 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1718 = {
+	holding = none
+}
+
+1719 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1720 = {
+	holding = none
+}
+
+1721 = {
+	holding = none
+}
+
+1722 = {
+	holding = none
+}
+
+1723 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1724 = {
+	holding = none
+}
+
+1725 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1726 = {
+	holding = none
+}
+
+1727 = {
+	holding = none
+}
+
+1728 = {
+	holding = none
+}
+
+1729 = {
+	holding = none
+}
+
+1730 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1731 = {
+	holding = none
+}
+
+1732 = {
+	holding = none
+}
+
+1733 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1734 = {
+	holding = none
+}
+
+1735 = {
+	holding = none
+}
+
+1736 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1737 = {
+	holding = none
+}
+
+1738 = {
+	holding = none
+}
+
+1739 = {
+	holding = none
+}
+
+1740 = {
+	holding = none
+}
+
+1741 = {
+	holding = none
+}
+
+1742 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1743 = {
+	holding = none
+}
+
+1744 = {
+	holding = none
+}
+
+1745 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1746 = {
+	holding = none
+}
+
+1747 = {
+	holding = none
+}
+
+1748 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1749 = {
+	holding = none
+}
+
+1750 = {
+	holding = none
+}
+
+1751 = {
+	holding = none
+}
+
+1752 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1753 = {
+	holding = none
+}
+
+1754 = {
+	holding = none
+}
+
+1755 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1756 = {
+	holding = none
+}
+
+1757 = {
+	holding = none
+}
+
+1758 = {
+	holding = none
+}
+
+1759 = {
+	holding = none
+}
+
+1760 = {
+	holding = none
+}
+
+1761 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1762 = {
+	holding = none
+}
+
+1763 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1764 = {
+	holding = none
+}
+
+1765 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1766 = {
+	holding = none
+}
+
+1767 = {
+	holding = none
+}
+
+1768 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1769 = {
+	holding = none
+}
+
+1770 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1771 = {
+	holding = none
+}
+
+1772 = {
+	holding = none
+}
+
+1773 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1774 = {
+	holding = none
+}
+
+1775 = {
+	holding = none
+}
+
+1776 = {
+	holding = none
+}
+
+1777 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1778 = {
+	holding = none
+}
+
+1779 = {
+	holding = none
+}
+
+1780 = {
+	holding = castle_holding
+	culture = dorastterocker
+	religion = dandelism
+}
+
+1781 = {
+	holding = none
+}
+
+1782 = {
+	holding = none
+}
+
+1783 = {
+	holding = none
+}
+
+1784 = {
+	holding = none
+}

@@ -1,0 +1,258 @@
+
+
+# C_Haegiel
+252 = {
+	culture = deutzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+251 = {
+	holding = city_holding
+	1065.1.1 = { 
+		holding = city_holding
+	}
+}
+
+253 = {
+	holding = temple_holding
+	1065.1.1 = { 
+		holding = temple_holding
+	}
+}
+
+254 = {
+	holding = castle_holdnig
+}
+
+255 = {
+	holding = none
+}
+
+256 = {
+	culture = deutzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+257 = { 
+	holding = none
+}
+
+258 = {
+	holding = none
+}
+
+259 = {
+	holding = none
+}
+
+260 = {
+	culture = deutzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+261 = {
+	holding = none
+}
+
+262 = {
+	culture = deutzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+263 = {
+	holding = none
+}
+
+264 = {
+	holding = none
+}
+
+265 = {
+	culture = deutzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+266 = {
+	holding = none
+}
+
+267 = {
+	holding = none
+}
+
+268 = {
+	culture = deutzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+269 = {
+	holding = none
+}
+
+270 = {
+	holding = none
+}
+
+#c_nadzjieja
+271 = {
+	culture = syrosi
+	religion = tossanism
+	holding = castle_holding
+}
+
+272 = {
+	holding = none
+}
+
+273 = {
+	holding = temple_holding
+}
+
+274 = {
+	culture = syrosi
+	religion = tossanism
+	holding = castle_holding
+}
+
+275 = {
+	holding = none
+}
+
+276 = {
+	holding = none
+}
+
+277 = {
+	culture = syrosi
+	religion = tossanism
+	holding = castle_holding
+	1065.1.1 = { 
+		holding = castle_holding 
+	}
+}
+
+278 = {
+	holding = none
+}
+
+279 = {
+	holding = none
+}
+
+#C_Syros
+280 = {
+	culture = syrosi
+	religion = tossanism
+	holding = castle_holding
+	duchy_capital_building = Anicent_Syrosi_walls_01
+	1065.1.1 = { 
+		holding = castle_holding 	
+	}
+}
+
+281 = {
+	holding = city_holding
+}
+
+282 = {	
+	holding = temple_holding
+1065.1.1 = { 
+	holding = temple_holding 
+}
+}
+
+283 = {
+	holding = castle_holding
+}
+
+284 = {
+	culture = deutzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+285 = {
+	holding = none
+}
+
+286 = {
+	holding = none
+}
+
+287 = {
+	culture = deutzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+288 = {
+	holding = none
+}
+
+289 = {
+	culture = balreskan
+	religion = tossanism
+	holding = castle_holding
+}
+
+290 = {
+	holding = none
+}
+
+#C Balreskan
+294 = {
+	culture = balreskan
+	religion = tossanism
+	holding = castle_holding
+}
+
+291 = {
+	holding = none
+	1054.1.1 = {
+		holding = temple_holding
+		}
+}
+
+
+292 = {
+	holding = city_holding
+}
+
+293 = {
+	holding = city_holding
+}
+
+
+295 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = temple_holding
+}
+
+296 = {
+	holding = city_holding
+}
+
+297 = {
+	holding = temple_holding
+}
+
+298 = {
+	holding = none
+}
+
+299 = {
+	culture = deutzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+300 = {
+	holding = none
+}

@@ -1,0 +1,190 @@
+691 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
++
+692 = {
+	holding = none
+}
+
+693 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+694 = {
+	holding = none
+}
+
+695 = {
+	holding = none
+}
+
+696 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+697 = {
+	holding = none
+}
+
+698 = {
+	holding = none
+}
+
+699 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+700 = {
+	holding = none
+}
+
+701 = {
+	holding = none
+}
+
+702 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+703 = {
+	holding = none
+}
+
+704 = {
+	holding = none
+}
+
+705 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+706 = {
+	holding = none
+}
+
+707 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+708 = {
+	holding = none
+}
+
+709 = {
+	holding = none
+}
+
+710 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+711 = {
+	holding = none
+}
+
+712 = {
+	holding = none
+}
+
+713 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+714 = {
+	holding = none
+}
+
+715 = {
+	holding = none
+}
+
+716 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+717 = {
+	holding = none
+}
+
+718 = {
+	holding = none
+}
+
+719 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+720 = {
+	holding = none
+}
+
+721 = {
+	holding = none
+}
+
+722 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+723 = {
+	holding = none
+}
+
+724 = {
+	holding = none
+}
+
+725 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+726 = {
+	holding = none
+}
+
+727 = {
+	holding = none
+}
+
+728 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+729 = {
+	holding = none
+}
+
+730 = {
+	holding = none
+}
+
+731 = {
+	holding = none
+}

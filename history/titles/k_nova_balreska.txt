@@ -1,0 +1,58 @@
+# Lebadbois land
+b_nova_balreska = {
+	1054.1.1 = {
+	effect = { set_capital_barony = yes }
+	}
+}
+
+c_nova_balreska = {
+	867.1.1 = {	change_development_level = 13 }
+	1054.1.1 = {
+		holder = 600013 # Lebadboi
+		}
+}
+
+c_DuristBog = {
+	867.1.1 = {	change_development_level = 2 }
+	1054.1.1 = {
+		holder = 600013 # Lebadboi
+		}
+}
+
+c_sovogrod = {
+	867.1.1 = {	change_development_level = 1 }
+	1054.1.1 = {
+		holder = 600013 # Lebadboi
+		}
+}
+
+# Bruhs land
+
+c_neuheim = {
+	867.1.1 = {	change_development_level = 8 }
+	1054.1.1 = {
+		holder = 600014 # Bruh_
+		}
+}
+
+c_verkhnya = {
+	867.1.1 = {	change_development_level = 1 }
+	1054.1.1 = {
+		holder = 600014 # Bruh_
+		}
+}
+
+c_slime_host = {
+	867.1.1 = {	change_development_level = 6 }
+	1054.1.1 = {
+		holder = 600014 # Bruh_
+		}
+}
+
+#kartoffel lmao
+c_orenia = {
+	867.1.1 = {	change_development_level = 6 }
+	1054.1.1 = {
+		holder = 600021 # Kartoffel
+		}
+}

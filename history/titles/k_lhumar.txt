@@ -1,0 +1,19 @@
+#d_celestial_matron = {
+#1054.1.1 = {
+#	holder = 6000011
+#	}
+#}
+
+d_lhumar = {
+	867.1.1 = {	change_development_level = 3 }
+1054.1.1 = {
+holder = 6000011
+}
+}
+
+c_Lhumar = {
+867.1.1 = {	change_development_level = 17 }
+1054.1.1 = {
+holder = 6000011
+}
+}

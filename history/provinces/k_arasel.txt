@@ -1,0 +1,120 @@
+665 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+666 = {
+	holding = none
+}
+
+667 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding}
+
+668 = {
+	holding = none
+}
+
+669 = {
+	holding = none
+}
+
+670 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+671 = {
+	holding = none
+}
+
+672 = {
+	holding = none
+}
+
+673 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+674 = {
+	holding = none
+}
+
+675 = {
+	holding = none
+}
+
+676 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+677 = {
+	holding = none
+}
+
+678 = {
+	culture = angan
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+679 = {
+	holding = none
+}
+
+680 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+681 = {
+	holding = none
+}
+
+682 = {
+	holding = none
+}
+
+683 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+684 = {
+	holding = none
+}
+
+685 = {
+	holding = none
+}
+
+686 = {
+	holding = none
+}
+
+687 = {
+	culture = heartlander
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+688 = {
+	holding = none
+}
+
+689 = {
+	holding = none
+}
+
+690 = {
+	holding = none
+}

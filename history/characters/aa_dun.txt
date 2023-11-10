@@ -1,0 +1,14 @@
+600015 = {
+	name = "Aelfiel "
+	dynasty = 30000011 #Meng
+	religion = "twin_dragon"
+	culture = "heartlander"
+	trait = education_stewardship_4
+	stewardship = 15
+	martial = 9
+	#father = 145930
+	1032.1.1 = {
+		birth = "824.1.1"
+	}
+	#dna = 
+}

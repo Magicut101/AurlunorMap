@@ -1,0 +1,171 @@
+619 = {
+	culture = angan 
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+620 = {
+	holding = none
+}
+
+621 = {
+	holding = none
+}
+
+622 = {
+	culture = angan 
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+623 = {
+	culture = angan 
+	religion = twin_dragon
+	holding = castle_holdin
+}
+
+624 = {
+	holding = none
+}
+
+625 = {
+	holding = none
+}
+
+626 = {
+	culture = angan 
+	religion = twin_dragon
+	holding = castle_holdin
+}
+
+627 = {
+	culture = angan 
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+628 = {
+	holding = none
+}
+
+629 = {
+	holding = none
+}
+
+630 = {
+	culture = angan 
+	religion = twin_dragon
+	holding = castle_holdin
+}
+
+631 = {
+	holding = none
+}
+
+632 = {
+	culture = angan 
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+633 = {
+	holding = none
+}
+
+634 = {
+	culture = heartlander 
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+635 = {
+	holding = none
+}
+
+636 = {
+	holding = none
+}
+
+637 = {
+	culture = angan 
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+638 = {
+	holding = none
+}
+
+639 = {
+	holding = none
+}
+
+640 = {
+	culture = heartlander 
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+641 = {
+	holding = none
+}
+
+642 = {
+	holding = none
+}
+
+643 = {
+	holding = none
+}
+
+644 = {
+	culture = heartlander 
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+645 = {
+	holding = none
+}
+
+646 = {
+	holding = none
+}
+
+647 = {
+	culture = angan 
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+648 = {
+	holding = none
+}
+
+649 = {
+	culture = heartlander 
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+650 = {
+	holding = none
+}
+
+651 = {
+	holding = none
+}
+
+652 = {
+	culture = angan 
+	religion = twin_dragon
+	holding = castle_holding
+}
+
+653 = {
+	holding = none
+}
+
+654 = {
+	holding = none
+}

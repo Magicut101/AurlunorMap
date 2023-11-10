@@ -1,0 +1,245 @@
+383 = {
+	culture = vorosani
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+384 = {
+	holding = none
+}
+
+385 = {
+	holding = none	
+}
+
+386 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none	
+	}
+}
+
+387 = {
+	holding = none
+}
+
+388 = {
+	culture = frontierkumiho
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+389 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none	
+	}
+}
+
+390 = {
+	holding = none
+}
+
+391 = {
+	culture = vorosani
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+392 = {
+	holding = none
+}
+
+393 = {
+	culture = vorosani
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+394 = {
+	holding = none
+}
+
+395 = {
+	holding = none
+}
+
+396 = {
+	culture = angan
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+397 = {
+	holding = none
+}
+
+398 = {
+	holding = none
+}
+
+399 = {
+	culture = nabut
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+400 = {
+	holding = none
+}
+
+401 = {
+	holding = none
+}
+
+402 = {
+	culture = frontierkumiho
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+403 = {
+	holding = none
+}
+
+404 = {
+	culture = vorosani
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+405 = {
+	holding = none
+}
+
+406 = {
+	holding = none
+}
+
+407 = {
+	culture = vorosani
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+408 = {
+	holding = none
+}
+
+409 = {
+	holding = none
+}
+
+410 = {
+	culture = frontierkumiho
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+411 = {
+	holding = none
+}
+
+412 = {
+	culture = vorosani
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+413 = {
+	holding = none
+}
+
+414 = {
+	holding = none
+}
+
+415 = {
+	culture = vorosani
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+416 = {
+	holding = none
+}
+
+417 = {
+	holding = none
+}
+
+418 = {
+	culture = kadut
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+419 = {
+	holding = none
+}
+
+420 = {
+	culture = vorosani
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+421 = {
+	holding = none
+}
+
+422 = {
+	holding = none
+}
+
+423 = {
+	culture = vorosani
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+424 = {
+	holding = none
+}
+
+425 = {
+	holding = none
+}
+
+426 = {
+	culture = frontierkumiho
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+427 = {
+	holding = none
+}
+
+428 = {
+	holding = none
+}
+
+429 = {
+	culture = kadut
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+430 = {
+	holding = none
+}
+
+431 = {
+	holding = none
+}
+
+432 = {
+	culture = vorosani
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+433 = {
+	holding = none
+}

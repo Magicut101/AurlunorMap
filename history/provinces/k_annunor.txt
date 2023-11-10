@@ -1,0 +1,379 @@
+1615 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1616 = {
+	holding = none
+}
+
+1617 = {
+	holding = none
+}
+
+1618 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1619 = {
+	holding = none
+}
+
+1620 = {
+	holding = none
+}
+
+1621 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1622 = {
+	holding = none
+}
+
+1623 = {
+	holding = none
+}
+
+1624 = {
+	holding = none
+}
+
+1625 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1626 = {
+	holding = none
+}
+
+1627 = {
+	holding = none
+}
+
+1628 = {
+	holding = none
+}
+
+1629 = {
+	holding = none
+}
+
+1630 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1631 = {
+	holding = none
+}
+
+1632 = {
+	holding = none
+}
+
+1633 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1634 = {
+	holding = none
+}
+
+1635 = {
+	holding = none
+}
+
+1636 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1637 = {
+	holding = none
+}
+
+1638 = {
+	holding = none
+}
+
+1639 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1640 = {
+	holding = none
+}
+
+1641 = {
+	holding = none
+}
+
+1642 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1643 = {
+	holding = none
+}
+
+1644 = {
+	holding = none
+}
+
+1645 = {
+	holding = none
+}
+
+1646 = {
+	holding = none
+}
+
+1647 = {
+	holding = none
+}
+
+1648 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1649 = {
+	holding = none
+}
+
+1650 = {
+	holding = none
+}
+
+1651 = {
+	holding = none
+}
+
+1652 = {
+	holding = none
+}
+
+1653 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1654 = {
+	holding = none
+}
+
+1655 = {
+	holding = none
+}
+
+1656 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1657 = {
+	holding = none
+}
+
+1658 = {
+	holding = none
+}
+
+1659 = {
+	holding = none
+}
+
+1660 = {
+	holding = none
+}
+
+1661 = {
+	holding = none
+}
+
+1662 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1663 = {
+	holding = none
+}
+
+1664 = {
+	holding = none
+}
+
+1665 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1666 = {
+	holding = none
+}
+
+1667 = {
+	holding = none
+}
+
+1668 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1669 = {
+	holding = none
+}
+
+1670 = {
+	holding = none
+}
+
+1671 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1672 = {
+	holding = none
+}
+
+1673 = {
+	holding = none
+}
+
+1674 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1675 = {
+	holding = none
+}
+
+1676 = {
+	holding = none
+}
+
+1677 = {
+	holding = none
+}
+
+1678 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1679 = {
+	holding = none
+}
+
+1680 = {
+	holding = none
+}
+
+1681 = {
+	holding = none
+}
+
+1682 = {
+	holding = none
+}
+
+1683 = {
+	holding = none
+}
+
+1684 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1685 = {
+	holding = none
+}
+
+1686 = {
+	holding = none
+}
+
+1687 = {
+	holding = none
+}
+
+1688 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1689 = {
+	holding = none
+}
+
+1690 = {
+	holding = none
+}
+
+1691 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1692 = {
+	holding = none
+}
+
+1693 = {
+	holding = castle_holding
+	culture = annunoren
+	religion = dandelism
+}
+
+1694 = {
+	holding = none
+}
+
+1695 = {
+	holding = none
+}
+
+1696 = {
+	holding = none
+}
+
+1697 = {
+	holding = none
+}
+
+1698 = {
+	holding = none
+}

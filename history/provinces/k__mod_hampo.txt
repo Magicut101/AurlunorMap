@@ -1,0 +1,377 @@
+301 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+302 = {
+	holding = none
+}
+
+303 = {
+	holding = none
+}
+
+304 = {
+	holding = none
+}
+
+305 = {
+	culture = hampo
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+306 = {
+	holding = none
+}
+
+307 = {
+	holding = none
+}
+
+308 = {
+	holding = none
+}
+
+309 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+310 = {
+	holding = none
+}
+
+311 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+312 = {
+	holding = none
+}
+
+313 = {
+	holding = none
+}
+
+314 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+315 = {
+	holding = none
+}
+
+316 = {
+	holding = none
+}
+
+317 = {
+	holding = none
+}
+
+318 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+319 = {
+	holding = none
+}
+
+320 = {
+	holding = none
+}
+
+321 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+322 = {
+	holding = none
+}
+
+323 = {
+	holding = none
+}
+
+324 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+325 = {
+	holding = none
+}
+
+326 = {
+	holding = none
+}
+
+327 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+328 = {
+	holding = none
+}
+
+329 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+330 = {
+	holding = none
+}
+
+331 = {
+	holding = none
+}
+
+332 = {
+	holding = none
+}
+
+333 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+334 = {
+	holding = none
+}
+
+335 = {
+	holding = none
+}
+
+336 = {
+	holding = none
+}
+
+337 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+338 = {
+	holding = none
+}
+
+339 = {
+	holding = none
+}
+
+340 = {
+	holding = none
+}
+
+341 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+342 = {
+	holding = none
+}
+
+343 = {
+	holding = none
+}
+
+344 = {
+	holding = none
+}
+
+345 = {
+	holding = none
+}
+
+346 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+347 = {
+	holding = none
+}
+
+348 = {
+	holding = none
+}
+
+349 = {
+	holding = none
+}
+
+350 = {
+	holding = none
+}
+
+351 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+352 = {
+	holding = none
+}
+
+353 = {
+	holding = none
+}
+
+354 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+355 = {
+	holding = none
+}
+
+356 = {
+	holding = none
+}
+
+357 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+358 = {
+	holding = none
+}
+
+359 = {
+	holding = none
+}
+
+360 = {
+	holding = none
+}
+
+361 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+362 = {
+	holding = none
+}
+
+363 = {
+	holding = none
+}
+
+364 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+365 = {
+	holding = none
+}
+
+366 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+367 = {
+	holding = none
+}
+
+368 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+369 = {
+	holding = none
+}
+
+370 = {
+	holding = none
+}
+
+371 = {
+	holding = none
+}
+
+372 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+373 = {
+	holding = none
+}
+
+374 = {
+	holding = none
+}
+
+375 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+376 = {
+	holding = none
+}
+
+377 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+378 = {
+	holding = none
+}
+
+379 = {
+	holding = none
+}
+
+380 = {
+	holding = none
+}
+
+381 = {
+	culture = hampo 
+	religion = twin_dragon
+	holding = tribal_holding
+}
+
+382 = {
+	holding = none
+}

@@ -1,0 +1,181 @@
+#County capital
+925 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+	1165.1.1 = {
+		culture = ryzani
+		holding = castle_holding
+	}
+}
+# flipped these cause its weird to put a island as the county capital
+
+926 = {
+	holding = none
+}
+
+927 = {
+	holding = city_holding
+}
+
+928 = {
+	holding = none
+}
+
+929 = {
+	holding = none
+}
+
+#County capital
+930 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+931 = {
+	holding = church_holding
+}
+
+932 = {
+	holding = none
+}
+
+933 = {
+	holding = none
+}
+
+#county Capital
+934 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+935 = {
+	holding = city_holding
+}
+
+936 = {
+	holding = none
+}
+
+#County Capital
+937 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+938 = {
+	holding = none
+}
+
+#c_tossagrad
+939 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+940 = {
+	holding = city_holding
+}
+
+941 = {
+	holding = church_holding
+}	
+
+942 = {
+	holding = church_holding
+}
+
+943 = {
+	holding = castle_holding
+}
+
+944 = {
+	holding = none
+}
+
+#County Capital
+945 = {
+	culture = ryzani
+	religion = tossanism
+	holding = church_holding
+}
+
+946 = {
+	holding = none
+}
+
+#County Capital : tossoroki
+947 = {
+	culture = ryzani
+	religion = tossanism
+	holding = none
+}
+
+948 = {
+	holding = none
+}
+
+#County Capital : Rova balreska
+949 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+950 = {
+	holding = none
+}
+
+951 = {
+	holding = none
+}
+
+952 = {
+	holding = none
+}
+
+# c_Stezhkahora
+953 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+954 = {
+	holding = none
+}
+
+955 = {
+	holding = none
+}
+
+# c_KhirovShlyakh
+956 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+957 = {
+	holding = none
+}
+
+#c_Khirov
+958 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+959 = {
+	holding = none
+}
+
+960 = {
+	holding = none
+}

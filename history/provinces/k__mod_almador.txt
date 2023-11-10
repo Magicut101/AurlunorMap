@@ -1,0 +1,170 @@
+#c_sachomar
+880 = {
+	culture = heartlander
+	religion = almadorian
+	holding = castle_holding
+}
+
+881 = {
+	holding = none
+}
+
+882 = {
+	holding = none
+}
+
+883 = {
+	holding = none
+}
+
+884 = {
+	holding = none
+}
+
+914 = {
+	holding = none
+}
+
+885 = {
+	culture = heartlander
+	religion = almadorian
+	holding = castle_holding
+}
+
+886 = {
+	holding = none
+}
+
+887 = {
+	culture = heartlander
+	religion = almadorian
+	holding = castle_holding
+}
+
+888 = {
+	holding = none
+}
+
+889 = {
+	holding = none
+}
+
+899 = {
+	culture = heartlander
+	religion = almadorian
+	holding = castle_holding
+}
+
+900 = {
+	holding = none
+}
+
+901 = {
+	holding = none
+}
+
+902 = {
+	culture = heartlander
+	religion = almadorian
+	holding = castle_holding
+}
+
+903 = {
+	holding = none
+}
+
+904 = {
+	holding = none
+}
+
+905 = {
+	holding = none
+}
+
+906 = {
+	culture = heartlander
+	religion = almadorian
+	holding = castle_holding
+}
+
+907 = {
+	holding = none
+}
+
+908 = {
+	holding = none
+}
+
+909 = {
+	culture = heartlander
+	religion = almadorian
+	holding = castle_holding
+}
+
+910 = {
+	holding = none
+}
+
+911 = {
+	culture = heartlander
+	religion = almadorian
+	holding = castle_holding
+}
+
+912 = {
+	holding = none
+}
+
+913 = {
+	holding = none
+}
+
+914 = {
+	culture = heartlander
+	religion = almadorian
+	holding = castle_holding
+}
+
+915 = {
+	holding = none
+}
+
+916 = {
+	holding = none
+}
+
+917 = {
+	holding = none
+}
+
+918 = {
+	culture = heartlander
+	religion = almadorian
+	holding = castle_holding
+}
+
+919 = {
+	holding = none
+}
+
+920 = {
+	culture = heartlander
+	religion = almadorian
+	holding = castle_holding
+}
+
+921 = {
+	holding = none
+}
+
+922 = {
+	holding = none
+}
+
+923 = {
+	holding = none
+}
+
+924 = {
+	holding = none
+}

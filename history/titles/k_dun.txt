@@ -1,0 +1,27 @@
+c_dun = {
+	867.1.1 = {	change_development_level = 15 }
+	1054.1.1 = {
+	holder = 600015 # alfy
+	}
+}
+
+c_ForestOfSarenis = {
+	867.1.1 = {	change_development_level = 1 }
+	1054.1.1 = {
+	holder = 600015 # alfy
+	}
+}
+
+c_VillageOfDun = {
+	867.1.1 = {	change_development_level = 4 }
+	1054.1.1 = {
+	holder = 600015 # alfy
+	}
+}
+
+c_RiverValley = {
+	867.1.1 = {	change_development_level = 1 }
+	1054.1.1 = {
+	holder = 600015 # alfy
+	}
+}

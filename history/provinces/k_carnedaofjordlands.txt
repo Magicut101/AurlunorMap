@@ -1,0 +1,178 @@
+#b_CarnedaoFjordlands
+56 = {
+	culture = qanti
+	religion = qantifolkway_pantheon
+	holding = tribal_holding
+}
+
+#b_PiMedjay
+57 = {
+	holding = none
+}
+
+#b_PiMedjayPass
+58 = {
+	holding = none
+}
+
+#b_PiMedjayCastle
+59 = {
+	culture = qanti
+	religion = qantifolkway_pantheon
+	holding = tribal_holding
+}
+
+#b_NashurForest
+60 = {
+	holding = none
+}
+
+#b_NashurPlain
+61 = {
+	holding = none
+}
+
+#b_NashurHolding
+62 = {
+	culture = qanti
+	religion = qantifolkway_pantheon
+	holding = tribal_holding
+}
+
+#b_Balim
+63 = {
+	holding = none
+}
+
+#b_BalimHolding
+64 = {
+	culture = qanti
+	religion = qantifolkway_pantheon
+	holding = tribal_holding
+}
+
+#b_Vamorak1
+65 = {
+	holding = none
+}
+
+#b_Vamorak2
+66 = {
+	holding = none
+}
+
+#b_Vamorak3
+67 = {
+	holding = none
+}
+
+#b_Vamorak4
+68 = {
+	culture = qanti
+	religion = qantifolkway_pantheon
+	holding = tribal_holding
+}
+
+#b_AlHamama1
+69 = {
+	holding = none
+}
+
+#b_AlHamama2
+70 = {
+	holding = none
+}
+
+#b_AlHamamaCastle
+71 = {
+	culture = qanti
+	religion = qantifolkway_pantheon
+	holding = tribal_holding
+}
+
+#b_Lavar1
+72 = {
+	holding = none
+}
+
+#b_Lavar2
+73 = {
+	holding = none
+}
+
+#b_Lavar3
+74 = {
+	culture = qanti
+	religion = qantifolkway_pantheon
+	holding = tribal_holding
+}
+
+#b_Kittarius1
+75 = {
+	holding = none
+}
+
+#b_Kittarius2
+76 = {
+	holding = none
+}
+
+#b_Kittarius3
+77 = {
+	culture = qanti
+	religion = qantifolkway_pantheon
+	holding = tribal_holding
+}
+
+#b_CarnedaoFjordlandTemple
+78 = {
+	holding = none
+}
+
+#b_CarnedaoFjordlandsHolding
+79 = {
+	holding = none
+}
+
+#b_CarnedaoFjordlandsEmpty
+80 = {
+	culture = qanti
+	religion = qantifolkway_pantheon
+	holding = tribal_holding
+}
+
+#b_Karneidao
+81 = {
+	culture = qanti
+	religion = qantifolkway_pantheon
+	holding = tribal_holding
+}
+
+#b_Sarlatova1
+82 = {
+	holding = none
+}
+
+#b_Sarlatova2
+83 = {
+	holding = none
+}
+
+#b_Sarlatova3
+84 = {
+	culture = qanti
+	religion = qantifolkway_pantheon
+	holding = tribal_holding
+}
+
+#b_Issykeknahkatown1
+85 = {
+	holding = none
+}
+
+#b_Issykeknahkatown2
+86 = {
+	holding = none
+}
+
+#b_Issykeknahkatown3

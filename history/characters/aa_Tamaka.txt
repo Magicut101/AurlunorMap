@@ -1,0 +1,33 @@
+600002 = {
+	name = "Nori"
+	dynasty = 20000001 #Di Nekomar
+	religion = "twin_dragon"
+	culture = "nekojin"
+	female = yes
+	trait = sadistic
+	trait = callous
+	trait = lustful
+	trait = education_intrigue_3
+	intrigue = 13
+	#father = 145930
+	1038.1.1 = {
+		birth = "824.1.1"
+	}
+	#dna = 
+}
+
+# Crow Names
+
+600010 = {
+	name = "Krow"
+	dynasty = 20000006 #Taku
+	religion = "twin_dragon"
+	culture = "crowfolk"
+	trait = education_stewardship_3
+	stewardship = 8
+	#father = 145930
+	1038.1.1 = {
+		birth = "824.1.1"
+	}
+	#dna = 
+}

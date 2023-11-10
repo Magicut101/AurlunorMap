@@ -1,0 +1,358 @@
+1104 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1105 = {
+	holding = none
+}
+
+1106 = {
+	holding = none
+}
+
+1107 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1108 = {
+	holding = none
+}
+
+1109 = {
+	holding = none
+}
+
+1110 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1111 = {
+	holding = none
+}
+
+1112 = {
+	holding = none
+}
+
+1113 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1114 = {
+	holding = none
+}
+
+1115 = {
+	holding = none
+}
+
+1116 = {
+	holding = none
+}
+
+1117 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1118 = {
+	holding = none
+}
+
+1119 = {
+	holding = none
+}
+
+1120 = {
+	holding = none
+}
+
+1121 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1122 = {
+	holding = none
+}
+
+1123 = {
+	holding = none
+}
+
+1124 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1125 = {
+	holding = none
+}
+
+1126 = {
+	holding = none
+}
+
+1127 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1128 = {
+	holding = none
+}
+
+1129 = {
+	holding = none
+}
+
+1130 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1131 = {
+	holding = none
+}
+
+1132 = {
+	holding = none
+}
+
+1133 = {
+	holding = none
+}
+
+1134 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1135 = {
+	holding = none
+}
+
+1136 = {
+	holding = none
+}
+
+1137 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1138 = {
+	holding = none
+}
+
+1139 = {
+	holding = none
+}
+
+1140 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1141 = {
+	holding = none
+}
+
+1142 = {
+	holding = none
+}
+
+1143 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1144 = {
+	holding = none
+}
+
+1145 = {
+	holding = none
+}
+
+1146 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1147 = {
+	holding = none
+}
+
+1148 = {
+	holding = none
+}
+
+1150 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1151 = {
+	holding = none
+}
+
+1152 = {
+	holding = none
+}
+
+1153 = {
+	holding = none
+}
+
+1154 = {
+	holding = none
+}
+
+1155 = {
+	holding = none
+}
+
+1156 = {
+	culture = nebskoslav
+	religion = tossanism
+	holding = castle_holding
+}
+
+1157 = {
+	holding = none
+}
+
+1158 = {
+	holding = none
+}
+
+1159 = {
+	culture = xaburyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1160 = {
+	holding = none
+}
+
+1161 = {
+	holding = none
+}
+
+1162 = {
+	culture = xaburyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1163 = {
+	holding = none
+}
+
+1164 = {
+	holding = none
+}
+
+1165 = {
+	culture = xaburyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1166 = {
+	holding = none
+}
+
+1167 = {
+	holding = none
+}
+
+1168 = {
+	culture = xaburyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1169 = {
+	holding = none
+}
+
+1170 = {
+	holding = none
+}
+
+1171 = {
+	holding = none
+}
+
+1172 = {
+	culture = xaburyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1173 = {
+	holding = none
+}
+
+1174 = {
+	holding = none
+}
+
+1175 = {
+	culture = xaburyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1176 = {
+	holding = none
+}
+
+1177 = {
+	holding = none
+}
+
+1178 = {
+	holding = none
+}
+
+1179 = {
+	holding = none
+}
+
+1180 = {
+	culture = xaburyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1181 = {
+	holding = none
+}
+
+1182 = {
+	holding = none
+}
+

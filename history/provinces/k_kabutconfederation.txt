@@ -1,0 +1,185 @@
+212 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+213 = {
+	holding = none
+}
+
+214 = {
+	holding = none
+}
+
+215 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+216 = {
+	holding = none
+}
+
+217 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+218 = {
+	holding = none
+}
+
+219 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+220 = {
+	holding = none
+}
+
+221 = {
+	holding = none
+}
+
+222 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+223 = {
+	holding = none
+}
+
+224 = {
+	holding = none
+}
+
+225 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+226 = {
+	holding = none
+}
+
+227 = {
+	holding = none
+}
+
+228 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+229 = {
+	holding = none
+}
+
+230 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+231 = {
+	holding = none
+}
+
+232 = {
+	holding = none
+}
+
+233 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+234 = {
+	holding = none
+}
+
+235 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+236 = {
+	holding = none
+}
+
+237 = {
+	holding = none
+}
+
+238 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+239 = {
+	holding = none
+}
+
+240 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+241 = {
+	holding = none
+}
+
+242 = {
+	holding = none
+}
+
+243 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+244 = {
+	holding = none
+}
+
+245 = {
+	holding = none
+}
+
+246 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+247 = {
+	holding = none
+}
+
+248 = {
+	culture = kadut
+	religion = nomadic_folk_way
+	holding = tribal_holding
+}
+
+249 = {
+	holding = none
+}
+
+250 = {
+	holding = none
+}

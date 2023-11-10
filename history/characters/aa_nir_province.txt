@@ -1,0 +1,29 @@
+600012 = {
+	name = "Mao"
+	dynasty = 30000008 #Meili
+	religion = "twin_dragon"
+	culture = "angan"
+	trait = education_learning_4
+	female = yes
+	stewardship = 8
+	#father = 145930
+	1038.1.1 = {
+		birth = "824.1.1"
+	}
+	#dna = 
+}
+
+600019 = {
+	name = "Sun"
+	dynasty = 30000015 # Lei
+	religion = "twin_dragon"
+	culture = "angan"
+	trait = education_stewardship_3
+	female = yes
+	stewardship = 10
+	#father = 145930
+	1040.1.1 = {
+		birth = "820.1.1"
+	}
+	#dna = 
+}

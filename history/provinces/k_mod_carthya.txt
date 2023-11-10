@@ -1,0 +1,202 @@
+1016 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1017 = {
+	holding = none
+}
+
+1018 = {
+	holding = none
+}
+
+1019 = {
+	holding = none
+}
+
+1020 = {
+	holding = none
+}
+
+1021 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1022 = {
+	holding = none
+}
+
+1023 = {
+	holding = none
+}
+
+1024 = {
+	holding = none
+}
+
+1025 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1026 = {
+	holding = none
+}
+
+1027 = {
+	holding = none
+}
+
+1028 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1029 = {
+	holding = none
+}
+
+1030 = {
+	holding = none
+}
+
+1031 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1032 = {
+	holding = none
+}
+
+1033 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1034 = {
+	holding = none
+}
+
+1035 = {
+	holding = none
+}
+
+1036 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1037 = {
+	holding = none
+}
+
+1038 = {
+	holding = none
+}
+
+1039 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1040 = {
+	holding = none
+}
+
+1041 = {
+	holding = none
+}
+
+1042 = {
+	holding = none
+}
+
+1043 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1044 = {
+	holding = none
+}
+
+1045 = {
+	holding = none
+}
+
+1046 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1047 = {
+	holding = none
+}
+
+1048 = {
+	holding = none
+}
+
+1049 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1050 = {
+	holding = none
+}
+
+1051 = {
+	holding = none
+}
+
+1052 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1053 = {
+	holding = none
+}
+
+1054 = {
+	holding = none
+}
+
+1055 = {
+	culture = carthyan
+	religion = tossanism
+	holding = castle_holding
+}
+
+1056 = {
+	holding = none
+}
+
+1057 = {
+	holding = none
+}
+
+1058 = {
+	holding = none
+}
+
+1059 = {
+	holding = none
+}
+

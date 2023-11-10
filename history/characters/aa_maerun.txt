@@ -1,0 +1,14 @@
+600020 = {
+	name = "Ida"
+	dynasty = 30000007 # Ida although I think this is wrong cause its this dynasty through marriage? though they dont have a original dynasty listed
+	religion = "twin_dragon"
+	culture = "angan"
+	trait = education_stewardship_3
+	female = yes
+	stewardship = 10
+	#father = 145930
+	1040.1.1 = {
+		birth = "820.1.1"
+	}
+	#dna = 
+}

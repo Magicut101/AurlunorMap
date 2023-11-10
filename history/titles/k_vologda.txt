@@ -1,0 +1,25 @@
+d_vologdan_knighthood = {
+	1054.1.1 = { holder = 600004}
+	}
+
+c_Vologda = {
+	867.1.1 = {	change_development_level = 7 }
+	1054.1.1 = {
+	holder = 600004
+	}
+	}
+	
+	c_VologdanMarshes = {
+		867.1.1 = {	change_development_level = 2 }
+		1054.1.1 = {
+		holder = 600004
+		}
+	}
+	
+	c_NorthVologda = {
+		867.1.1 = {	change_development_level = 3 }
+		1054.1.1 = {
+		holder = 600004
+		}
+	}
+	

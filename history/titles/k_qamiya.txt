@@ -1,0 +1,35 @@
+d_qamiya = {
+	867.1.1 = {	change_development_level = 3 }
+	1054.1.1 = { holder = 600016} # azan
+	}
+
+c_qamiya = {
+	867.1.1 = {	change_development_level = 12 }
+	1054.1.1 = { holder = 600016} # azan
+	}
+
+#Froyo
+c_nabutanmanors = {
+	867.1.1 = {	change_development_level = 9 }
+	1054.1.1 = { holder = 600017} # froyo
+	}
+
+c_oroman = {
+	867.1.1 = {	change_development_level = 3 }
+	1054.1.1 = { holder = 600017} # froyo
+	}
+
+c_oroman = {
+	867.1.1 = {	change_development_level = 3 }
+	1054.1.1 = { holder = 600017} # froyo
+	}
+
+c_djunse = {
+	867.1.1 = {	change_development_level = 3 }
+	1054.1.1 = { holder = 600017} # froyo
+	}
+
+c_djinnsmanor = {
+	867.1.1 = {	change_development_level = 7 }
+	1054.1.1 = { holder = 600017} # froyo
+	}

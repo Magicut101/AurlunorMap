@@ -1,0 +1,318 @@
+452 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+453 = {
+	holding = none
+}
+
+454 = {
+	holding = none
+}
+
+455 = {
+	holding = none
+}
+
+456 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+457 = {
+	holding = none
+}
+
+458 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+459 = {
+	holding = none
+}
+
+460 = {
+	holding = none
+}
+
+461 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+462 = {
+	holding = none
+}
+
+463 = {
+	holding = none
+}
+
+464 = {
+	holding = none
+}
+
+465 = {
+	culture = almalie
+	religion = almadorian
+	holding = tribal_holding
+}
+
+466 = {
+	holding = none
+}
+
+467 = {
+	holding = none
+}
+
+468 = {
+	holding = none
+}
+
+469 = {
+	culture = angan
+	religion = almadorian
+	holding = castle_holding
+}
+
+470 = {
+	holding = city_holding
+}
+
+471 = {
+	holding = temple_holding
+}
+
+472 = {
+	holding = none
+}
+
+473 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+474 = {
+	holding = none
+}
+
+475 = {
+	holding = none
+}
+
+476 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+477 = {
+	holding = none
+}
+
+478 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+
+479 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+480 = {
+	holding = none
+}
+
+481 = {
+	holding = none
+}
+
+482 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+483 = {
+	holding = none
+}
+
+484 = {
+	holding = none
+}
+
+485 = {
+	holding = none
+}
+
+486 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+487 = {
+	holding = none
+}
+
+488 = {
+	holding = none
+}
+
+489 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+490 = {
+	holding = none
+}
+
+491 = {
+	holding = none
+}
+
+492 = {
+	holding = none
+}
+
+493 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+494 = {
+	holding = none
+}
+
+495 = {
+	holding = none
+}
+
+496 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+497 = {
+	holding = none
+}
+
+498 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+499 = {
+	holding = none
+}
+
+500 = {
+	culture = nekojin
+	religion = almadorian
+	holding = tribal_holding
+}
+
+501 = {
+	holding = none
+}
+
+502 = {
+	holding = none
+}
+
+503 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+504 = {
+	holding = none
+}
+
+505 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+506 = {
+	holding = none
+}
+
+507 = {
+	holding = none
+}
+
+508 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+509 = {
+	holding = none
+}
+
+510 = {
+	holding = none
+}
+
+511 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+512 = {
+	holding = none
+}
+
+513 = {
+	holding = none
+}
+
+514 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+515 = {
+	holding = none
+}
+
+516 = {
+	holding = none
+}
+
+517 = {
+	culture = angan
+	religion = almadorian
+	holding = tribal_holding
+}
+
+518 = {
+	holding = none
+}
+
+519 = {
+	holding = none
+}

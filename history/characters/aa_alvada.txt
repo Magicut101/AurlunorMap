@@ -1,0 +1,13 @@
+600018 = {
+	name = "Vexan"
+	dynasty = 30000014 # Austris
+	religion = "twin_dragon"
+	culture = "fornoisan"
+	trait = education_stewardship_4
+	stewardship = 10
+	#father = 145930
+	1040.1.1 = {
+		birth = "820.1.1"
+	}
+	#dna = 
+}

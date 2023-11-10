@@ -1,0 +1,70 @@
+600001 = {
+	name = "Constatine"
+	dynasty = 30000002
+	religion = "tossanism"
+	culture = "syrosi"
+	trait = content
+	trait = just
+	trait = diligent
+	trait = education_martial_3
+	martial = 10
+	#father = 145930
+	1038.1.1 = {
+		birth = "820.1.1"
+	}
+	#dna = 
+}
+
+600003 = {
+	name = "Theodorik"
+	dynasty = 8635
+	religion = "tossanism"
+	culture = "syrosi"
+	martial = 10
+	#father = 145930
+	trait = education_martial_2
+	1038.1.1 = {
+		birth = "821.1.1"
+	}
+	#dna = 
+}
+
+600006 = {
+	name = "Anstolis"
+	dynasty = 30000004
+	religion = "tossanism"
+	culture = "deutzani"
+	#father = 145930
+	trait = education_stewardship_3
+	1038.1.1 = {
+		birth = "821.1.1"
+	}
+	#dna = 
+}
+
+600007 = {
+	name = "Igor"
+	dynasty = 8637
+	religion = "tossanism"
+	culture = "deutzani"
+	#father = 145930
+	trait = education_diplomacy_2
+	1038.1.1 = {
+		birth = "821.1.1"
+	}
+	#dna = 
+}
+
+600008 = {
+	name = "Nikolai"
+	dynasty = 30000004
+	religion = "tossanism"
+	culture = "balreskan"
+	#give_nickname = #make nickname "green"
+	#father = 145930
+	trait = education_diplomacy_2
+	1038.1.1 = {
+		birth = "821.1.1"
+	}
+	#dna = 
+}

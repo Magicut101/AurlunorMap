@@ -1,0 +1,46 @@
+c_Tossagrad = {
+	867.1.1 = {	change_development_level = 12 }
+	1054.1.1 = {
+	holder = 600005
+	}
+	}
+	c_TsarkyHora = {
+		867.1.1 = {	change_development_level = 5 }
+		1054.1.1 = {
+		holder = 600005
+		}
+	}
+	
+	c_TsarskyShlyakh = {
+		867.1.1 = {	change_development_level = 3 }
+		1054.1.1 = {
+		holder = 600005
+		}
+	}
+
+	c_BerehSribnyy = {
+		867.1.1 = {	change_development_level = 3 }
+		1054.1.1 = {
+		holder = 600005
+		}
+	}
+
+
+	#mocoslav land
+	c_Mocogrod = {
+		867.1.1 = {	change_development_level = 3 }
+	
+		1054.1.1 = {
+			holder = 600009
+			liege = 0
+		}
+	}
+
+	c_Tossaroki = {
+		867.1.1 = {	change_development_level = 1 }
+	
+		1054.1.1 = {
+			holder = 600009
+			liege = 0
+		}
+	}

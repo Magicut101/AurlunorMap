@@ -1,0 +1,43 @@
+600013 = {
+	name = "Dimitri"
+	dynasty = 30000009 #Liberium
+	religion = "tossanism"
+	culture = "balreskan"
+	trait = education_martial_3
+	stewardship = 9
+	martial = 10
+	#father = 145930
+	1032.1.1 = {
+		birth = "824.1.1"
+	}
+	#dna = 
+}
+
+600014 = {
+	name = "Bruhovich"
+	dynasty = 30000010 #Aasimar
+	religion = "tossanism"
+	culture = "carthyan"
+	trait = education_stewardship_2
+	stewardship = 11
+	martial = 9
+	#father = 145930
+	1032.1.1 = {
+		birth = "824.1.1"
+	}
+	#dna = 
+}
+
+600021 = {
+	name = "Kartovski"
+	dynasty = 30000016 #Kartoffel
+	religion = "tossanism"
+	culture = "carthyan"
+	trait = education_martial_4
+	martial = 12
+	#father = 145930
+	1040.1.1 = {
+		birth = "824.1.1"
+	}
+	#dna = 
+}

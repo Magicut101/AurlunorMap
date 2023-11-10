@@ -1,0 +1,20 @@
+c_Maerun = {
+	867.1.1 = {	change_development_level = 12 }
+	1054.1.1 = {
+	holder = 600020 # ida
+	}
+}
+
+c_ChunSpring = {
+	867.1.1 = {	change_development_level = 4 }
+	1054.1.1 = {
+	holder = 600020 # ida
+	}
+}
+
+c_Yongliang = {
+	867.1.1 = {	change_development_level = 2 }
+	1054.1.1 = {
+	holder = 600020 # ida
+	}
+}

@@ -1,0 +1,118 @@
+434 = {
+	culture = ashuran
+	religion = cardinalism
+	holding = castle_holding
+}
+
+435 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+436 = {
+	holding = none
+}
+
+437 = {
+	holding = none
+}
+
+438 = {
+	culture = ashuran
+	religion = cardinalism
+	holding = castle_holding
+}
+
+439 = {
+	holding = none
+	1065.1.1 = { 
+		holding = city_holding
+	}
+}
+
+440 = {
+	holding = none
+}
+
+441 = {
+	holding = none
+}
+
+#c_tahat
+442 = {
+	culture = ashuran
+	religion = cardinalism
+	holding = castle_holding
+	1065.1.1 = { 
+		holding = castle_holding
+	}
+}
+
+443 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+444 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+445 = {
+	culture = ashuran
+	religion = cardinalism
+	holding = castle_holding
+	1065.1.1 = { 
+		holding = castle_holding
+	}
+}
+
+446 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+447 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+448 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+449 = {
+	culture = ashuran
+	religion = cardinalism
+	holding = castle_holding
+	1065.1.1 = { 
+		holding = castle_holding
+	}
+}
+
+450 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}
+
+451 = {
+	holding = none
+	1065.1.1 = { 
+		holding = none
+	}
+}

@@ -1,0 +1,199 @@
+1060 = {
+	culture = valkyries
+	religion = tossanism
+	holding = castle_holding
+}
+1061 = {
+	holding = none
+}
+
+1062 = {
+	holding = none
+}
+
+1063 = {
+	holding = none
+}
+
+1064 = {
+	holding = none
+}
+
+1065 = {
+	holding = none
+}
+
+1066 = {
+	culture = valkyries
+	religion = tossanism
+	holding = castle_holding
+}
+
+1067 = {
+	holding = none
+}
+
+1068 = {
+	holding = none
+}
+
+1069 = {
+	holding = none
+}
+
+1070 = {
+	holding = none
+}
+
+1071 = {
+	culture = valkyries
+	religion = tossanism
+	holding = castle_holding
+}
+
+1072 = {
+	holding = none
+}
+
+1073 = {
+	holding = none
+}
+
+1074 = {
+	culture = valkyries
+	religion = tossanism
+	holding = castle_holding
+}
+
+1075 = {
+	holding = none
+}
+
+1076 = {
+	holding = none
+}
+
+1077 = {
+	culture = valkyries
+	religion = tossanism
+	holding = castle_holding
+}
+
+1078 = {
+	holding = none
+}
+
+1079 = {
+	holding = none
+}
+
+1080 = {
+	holding = none
+}
+
+1081 = {
+	culture = valkyries
+	religion = tossanism
+	holding = castle_holding
+}
+
+1082 = {
+	holding = none
+}
+
+1083 = {
+	holding = none
+}
+
+1084 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+1085 = {
+	holding = none
+}
+
+1086 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+1087 = {
+	holding = none
+}
+
+1088 = {
+	holding = none
+}
+
+1089 = {
+	holding = none
+}
+
+1090 = {
+	holding = none
+}
+
+1091 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+1092 = {
+	holding = none
+}
+
+1093 = {
+	holding = none
+}
+
+1094 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+1095 = {
+	holding = none
+}
+
+1096 = {
+	holding = none
+}
+
+1097 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+1098 = {
+	holding = none
+}
+
+1099 = {
+	holding = none
+}
+
+1100 = {
+	culture = ryzani
+	religion = tossanism
+	holding = castle_holding
+}
+
+1101 = {
+	holding = none
+}
+
+1102 = {
+	holding = none
+}
+
+1103 = {
+	holding = none
+}
+
