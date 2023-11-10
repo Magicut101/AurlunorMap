@@ -1,0 +1,89 @@
+﻿l_english:
+
+ #Common caelus_faithful Localization
+ caelus_faithful_religion:0 "Tossanism"
+ caelus_faithful_religion_adj:0 "Tossanism"
+ caelus_faithful_religion_adherent:0 "coolbird"
+ caelus_faithful_religion_adherent_plural:0 "Faithful"
+ caelus_faithful_religion_desc:0 "Focused on pure devotion to the one true god this militaristic religion guards their home."
+
+ caelus_faithful_high_god_name:0 "Caelus"
+ caelus_faithful_high_god_name_2:0 "$caelus_faithful_high_god_name$" # Optional translation alt
+ caelus_faithful_high_god_name_3:0 "$caelus_faithful_high_god_name$" # Optional translation alt
+ caelus_faithful_high_god_name_possessive:0 "Caelus's"
+ caelus_faithful_high_god_name_alternate:0 "the gods"
+ caelus_faithful_high_god_name_alternate_possessive:0 "the God's"
+ caelus_faithful_good_god_jesus:0 "$caelus_faithful_health_god_name$"
+ caelus_faithful_good_god_christ:0 "toss's"
+ caelus_faithful_devil_name:0 "Entropy"
+ caelus_faithful_devil_name_possessive:0 "Entropy's"
+ caelus_faithful_evil_god_lucifer:0 "Entropy"
+ caelus_faithful_evil_god_beelzebub:0 "Entropy"
+ caelus_faithful_evil_god_mephistopheles:0 "Entropy"
+ caelus_faithful_death_deity_name:0 "Death"
+ caelus_faithful_death_deity_name_possessive:0 "Death's"
+ caelus_faithful_house_of_worship:0 "church"
+ caelus_faithful_house_of_worship_2:0 "$caelus_faithful_house_of_worship$" # Optional translation alt
+ caelus_faithful_house_of_worship_3:0 "$caelus_faithful_house_of_worship$" # Optional translation alt
+ caelus_faithful_house_of_worship_plural:0 "churches"
+ caelus_faithful_religious_symbol:0 "Caelus"
+ caelus_faithful_religious_symbol_2:0 "$caelus_faithful_religious_symbol$" # Optional translation alt
+ caelus_faithful_religious_symbol_3:0 "$caelus_faithful_religious_symbol$" # Optional translation alt
+ caelus_faithful_religious_text:0 "epics"
+ caelus_faithful_religious_text_2:0 "$caelus_faithful_religious_text$" # Optional translation alt
+ caelus_faithful_religious_text_3:0 "$caelus_faithful_religious_text$" # Optional translation alt
+ caelus_faithful_religious_head_title:0 "Birdboi"
+ caelus_faithful_religious_head_title_name:0 "Knighthood"
+ caelus_faithful_devotee_male:0 "priest"
+ caelus_faithful_devotee_male_plural:0 "priests"
+ caelus_faithful_devotee_female:0 "priestess"
+ caelus_faithful_devotee_female_plural:0 "priestess's"
+ caelus_faithful_devotee_neuter:0 "monastic"
+ caelus_faithful_devotee_neuter_plural:0 "monastics"
+ caelus_faithful_priest_male:0 "priest"
+ caelus_faithful_priest_male_plural:0 "priests"
+ caelus_faithful_priest_alternate_plural:0 "bishop"
+ caelus_faithful_bishop:0 "bishop"
+ caelus_faithful_bishop_plural:0 "bishops"
+ caelus_faithful_positive_afterlife:0 "the caelus's realm"
+ caelus_faithful_positive_afterlife_2:1 "paradise" # Optional translation alt
+ caelus_faithful_positive_afterlife_3:1 "$caelus_faithful_high_god_name_possessive$ Kingdom" # Optional translation alt
+ caelus_faithful_negative_afterlife:0 "chaos"
+ caelus_faithful_negative_afterlife_2:1 "the Pit of Entropy" # Optional translation alt
+ caelus_faithful_negative_afterlife_3:1 "Destruction" # Optional translation alt
+ caelus_faithful_witchgodname_the_horned_god:0 "the Entropy"
+ caelus_faithful_witchgodname_the_horned_god_possessive:0 "Entropy's"
+
+ caelus_faithful_creator_god_name:0 "$caelus_faithful_high_god_name$"
+ caelus_faithful_creator_god_name_possessive:0 "$caelus_faithful_high_god_name_possessive$"
+ caelus_faithful_health_god_name:0 "god"
+ caelus_faithful_health_god_name_possessive:0 "god's"
+ caelus_faithful_fertility_god_name:0 "$caelus_faithful_high_god_name$"
+ caelus_faithful_fertility_god_name_possessive:0 "$caelus_faithful_high_god_name_possessive$"
+ caelus_faithful_wealth_god_name:0 "$caelus_faithful_high_god_name$"
+ caelus_faithful_wealth_god_name_possessive:0 "$caelus_faithful_high_god_name_possessive$"
+ caelus_faithful_household_god_name:0 "$caelus_faithful_health_god_name$"
+ caelus_faithful_household_god_name_possessive:0 "$caelus_faithful_health_god_name_possessive$"
+ caelus_faithful_fate_god_name:0 "$caelus_faithful_high_god_name$"
+ caelus_faithful_fate_god_name_possessive:0 "$caelus_faithful_high_god_name_possessive$"
+ caelus_faithful_knowledge_god_name:0 "$caelus_faithful_high_god_name$"
+ caelus_faithful_knowledge_god_name_possessive:0 "$caelus_faithful_high_god_name_possessive$"
+ caelus_faithful_war_god_name:0 "$caelus_faithful_high_god_name$"
+ caelus_faithful_war_god_name_possessive:0 "$caelus_faithful_high_god_name_possessive$"
+ caelus_faithful_trickster_god_name:0 "Fortuna"
+ caelus_faithful_trickster_god_name_possessive:0 "Fortuna's"
+ caelus_faithful_night_god_name:0 "$caelus_faithful_high_god_name$"
+ caelus_faithful_night_god_name_possessive:0 "$caelus_faithful_high_god_name_possessive$"
+ caelus_faithful_water_god_name:0 "$caelus_faithful_health_god_name$"
+ caelus_faithful_water_god_name_possessive:0 "$caelus_faithful_health_god_name_possessive$"
+
+tossanism:0 "Tossanism"
+tossanism_adj:0 "Tossanism"
+tossanism_adherent:0 "Tossanist"
+tossanism_adherent_plural:0 "Tossanists"
+
+ #adamites:0 "Tossanism"
+ #adamites_adj:0 "Tossanism"
+ #adamites_adherent:0 "Tossanist"
+ #adamites_adherent_plural:0 "Tossanists"
+ #adamites_desc:0 "The Adamites claim to have recaptured Adam and Eve's original state of innocence by shedding their clothes. Groups of Adamites often live in a state of absolute #lawlessness, claiming that due to #this innocence their actions can be neither good nor evil."

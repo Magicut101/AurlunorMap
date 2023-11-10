@@ -1,0 +1,88 @@
+﻿l_english:
+
+ #Common vologdan Localization
+ vologdan_religion:0 "The One True Faith"
+ vologdan_religion_adj:0 "The One True Faith"
+ vologdan_religion_adherent:0 "Followers"
+ vologdan_religion_adherent_plural:0 "Vologdans"
+ vologdan_religion_desc:0 "Focused on pure devotion to the one true god this militaristic religion guards their home."
+
+ vologdan_high_god_name:0 "God"
+ vologdan_high_god_name_2:0 "$vologdan_high_god_name$" # Optional translation alt
+ vologdan_high_god_name_3:0 "$vologdan_high_god_name$" # Optional translation alt
+ vologdan_high_god_name_possessive:0 "One's"
+ vologdan_high_god_name_alternate:0 "the true gods"
+ vologdan_high_god_name_alternate_possessive:0 "One God's"
+ vologdan_good_god_jesus:0 "$vologdan_health_god_name$"
+ vologdan_good_god_christ:0 "God"
+ vologdan_devil_name:0 "Chaos"
+ vologdan_devil_name_possessive:0 "Chaos's"
+ vologdan_evil_god_lucifer:0 "Lucifer"
+ vologdan_evil_god_beelzebub:0 "Beelzebub"
+ vologdan_evil_god_mephistopheles:0 "Mephistopheles"
+ vologdan_death_deity_name:0 "Death"
+ vologdan_death_deity_name_possessive:0 "Death's"
+ vologdan_house_of_worship:0 "church"
+ vologdan_house_of_worship_2:0 "$vologdan_house_of_worship$" # Optional translation alt
+ vologdan_house_of_worship_3:0 "$vologdan_house_of_worship$" # Optional translation alt
+ vologdan_house_of_worship_plural:0 "churches"
+ vologdan_religious_symbol:0 "tree"
+ vologdan_religious_symbol_2:0 "$vologdan_religious_symbol$" # Optional translation alt
+ vologdan_religious_symbol_3:0 "$vologdan_religious_symbol$" # Optional translation alt
+ vologdan_religious_text:0 "scriptures"
+ vologdan_religious_text_2:0 "$vologdan_religious_text$" # Optional translation alt
+ vologdan_religious_text_3:0 "$vologdan_religious_text$" # Optional translation alt
+ vologdan_religious_head_title:0 "Captain Regent"
+ vologdan_religious_head_title_name:0 "Knighthood"
+ vologdan_devotee_male:0 "squire"
+ vologdan_devotee_male_plural:0 "squires"
+ vologdan_devotee_female:0 "knight"
+ vologdan_devotee_female_plural:0 "knights"
+ vologdan_devotee_neuter:0 "monastic"
+ vologdan_devotee_neuter_plural:0 "monastics"
+ vologdan_priest_male:0 "priest"
+ vologdan_priest_male_plural:0 "priests"
+ vologdan_priest_alternate_plural:0 "missionary"
+ vologdan_bishop:0 "knight"
+ vologdan_bishop_plural:0 "knights"
+ vologdan_positive_afterlife:0 "the one's realm"
+ vologdan_positive_afterlife_2:1 "paradise" # Optional translation alt
+ vologdan_positive_afterlife_3:1 "$vologdan_high_god_name_possessive$ Kingdom" # Optional translation alt
+ vologdan_negative_afterlife:0 "chaos"
+ vologdan_negative_afterlife_2:1 "the Pit of Chaos" # Optional translation alt
+ vologdan_negative_afterlife_3:1 "Destruction" # Optional translation alt
+ vologdan_witchgodname_the_horned_god:0 "the Deceiver"
+ vologdan_witchgodname_the_horned_god_possessive:0 "the Deceiver's"
+
+ vologdan_creator_god_name:0 "$vologdan_high_god_name$"
+ vologdan_creator_god_name_possessive:0 "$vologdan_high_god_name_possessive$"
+ vologdan_health_god_name:0 "god"
+ vologdan_health_god_name_possessive:0 "god's"
+ vologdan_fertility_god_name:0 "$vologdan_high_god_name$"
+ vologdan_fertility_god_name_possessive:0 "$vologdan_high_god_name_possessive$"
+ vologdan_wealth_god_name:0 "$vologdan_high_god_name$"
+ vologdan_wealth_god_name_possessive:0 "$vologdan_high_god_name_possessive$"
+ vologdan_household_god_name:0 "$vologdan_health_god_name$"
+ vologdan_household_god_name_possessive:0 "$vologdan_health_god_name_possessive$"
+ vologdan_fate_god_name:0 "$vologdan_high_god_name$"
+ vologdan_fate_god_name_possessive:0 "$vologdan_high_god_name_possessive$"
+ vologdan_knowledge_god_name:0 "$vologdan_high_god_name$"
+ vologdan_knowledge_god_name_possessive:0 "$vologdan_high_god_name_possessive$"
+ vologdan_war_god_name:0 "$vologdan_high_god_name$"
+ vologdan_war_god_name_possessive:0 "$vologdan_high_god_name_possessive$"
+ vologdan_trickster_god_name:0 "Fortuna"
+ vologdan_trickster_god_name_possessive:0 "Fortuna's"
+ vologdan_night_god_name:0 "$vologdan_high_god_name$"
+ vologdan_night_god_name_possessive:0 "$vologdan_high_god_name_possessive$"
+ vologdan_water_god_name:0 "$vologdan_health_god_name$"
+ vologdan_water_god_name_possessive:0 "$vologdan_health_god_name_possessive$"
+
+the_one_true_faith:0 "The One True Faith"
+the_one_true_faith_adj:0 "The One's Faithful"
+the_one_true_faith_adherent:0 "Faithful"
+
+ #adamites:0 "Adamitism"
+ #adamites_adj:0 "Adamite"
+ #adamites_adherent:0 "Adamite"
+ #adamites_adherent_plural:0 "Adamites"
+ #adamites_desc:0 "The Adamites claim to have recaptured Adam and Eve's original state of innocence by shedding their clothes. Groups of Adamites often live in a state of absolute lawlessness, claiming that due to #this innocence their actions can be neither good nor evil."

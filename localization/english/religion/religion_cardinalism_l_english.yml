@@ -1,0 +1,85 @@
+﻿l_english:
+ #Common cardilanist Localization
+ cardinal_religion:0 "Cardinalism"
+ cardinal_religion_adj:0 "Cardinalist"
+ cardinal_religion_adherent:0 "Cardinalist"
+ cardinal_religion_adherent_plural:0 "Cardinalists"
+ cardinal_religion_desc:0 "Founded on the great four cardinal directions - these four are balanced through many rituals to keep them satisfied."
+
+ cardinal_high_god_name:0 "the Great Balance"
+ cardinal_high_god_name_2:0 "$cardinal_high_god_name$" # Optional translation alt
+ cardinal_high_god_name_possessive:0 "the Great Balance's"
+ cardinal_high_god_name_alternate:0 "the Great Four"
+ cardinal_high_god_name_alternate_possessive:0 "the Great Four's"
+ cardinal_good_god_name_three_pure_ones:0 "cardinal directions"
+ cardinal_devil_name:0 "Entropy"
+ cardinal_devil_name_possessive:0 "Entropy's"
+ cardinal_house_of_worship:0 "$paganism_house_of_worship$"
+ cardinal_house_of_worship_2:0 "$paganism_house_of_worship_2$" # Optional translation alt
+ cardinal_house_of_worship_3:0 "$paganism_house_of_worship_3$" # Optional translation alt
+ cardinal_house_of_worship_plural:0 "$paganism_house_of_worship_plural$"
+ cardinal_religious_symbol:0 "Lapis and Gold"
+ cardinal_religious_symbol_2:0 "$cardinal_religious_symbol$" # Optional translation alt
+ cardinal_religious_symbol_3:0 "$cardinal_religious_symbol$" # Optional translation alt
+ cardinal_religious_text:0 "Nextla'e'hualli Tlahatepa"
+ cardinal_religious_text_2:0 "$cardinal_religious_text$" # Optional translation alt
+ cardinal_religious_text_3:0 "$cardinal_religious_text$" # Optional translation alt
+ cardinal_religious_head_title:0 "Head Priest"
+ cardinal_religious_head_title_name:0 "The Great Compass"
+ cardinal_devotee_male:0 "$cardinal_devotee_neuter$"
+ cardinal_devotee_male_plural:0 "$cardinal_devotee_neuter_plural$"
+ cardinal_devotee_female:0 "$cardinal_devotee_neuter$"
+ cardinal_devotee_female_plural:0 "$cardinal_devotee_neuter_plural$"
+ cardinal_devotee_neuter:0 "Cardinalist"
+ cardinal_devotee_neuter_plural:0 "Cardinalist"
+ cardinal_priest_male:0 "$cardinal_devotee_neuter$"
+ cardinal_priest_male_plural:0 "$cardinal_devotee_neuter_plural$"
+ cardinal_priest_female:0 "$cardinal_devotee_neuter$"
+ cardinal_priest_female_plural:0 "$cardinal_devotee_neuter_plural$"
+ cardinal_priest_neuter:0 "$cardinal_devotee_neuter$"
+ cardinal_priest_neuter_plural:0 "$cardinal_devotee_neuter_plural$"
+ cardinal_alternate_priest_term_plural:0 "priests"
+ cardinal_divine_realm:0 "the afterlife"
+ cardinal_divine_realm_2:0 "$cardinal_divine_realm$" # Optional translation alt
+ cardinal_divine_realm_3:0 "$cardinal_divine_realm$" # Optional translation alt
+ cardinal_positive_afterlife:0 "$cardinal_divine_realm$"
+ cardinal_positive_afterlife_2:0 "$cardinal_divine_realm$" # Optional translation alt
+ cardinal_positive_afterlife_3:0 "$cardinal_divine_realm$" # Optional translation alt
+ cardinal_negative_afterlife:0 "$cardinal_divine_realm$"
+ cardinal_negative_afterlife_2:0 "$cardinal_divine_realm$" # Optional translation alt
+ cardinal_negative_afterlife_3:0 "$cardinal_divine_realm$" # Optional translation alt
+
+ cardinal_creator_god_name:0 "the Great Balance"
+ cardinal_creator_god_name_possessive:0 "the Great Balance's"
+ cardinal_health_god_name:0 "Tlahatepa"
+ cardinal_health_god_name_possessive:0 "Tlahatepa's"
+ cardinal_fertility_god_name:0 "$cardinal_health_god_name$"
+ cardinal_fertility_god_name_possessive:0 "$cardinal_health_god_name_possessive$"
+ cardinal_wealth_god_name:0 "$cardinal_health_god_name$"
+ cardinal_wealth_god_name_possessive:0 "$cardinal_health_god_name_possessive$"
+ cardinal_household_god_name:0 "Cualitzin"
+ cardinal_household_god_name_possessive:0 "Cualitzin's"
+ cardinal_fate_god_name:0 "$cardinal_household_god_name$"
+ cardinal_fate_god_name_possessive:0 "$cardinal_household_god_name_possesive$"
+ cardinal_knowledge_god_name:0 "Xoalcoatl"
+ cardinal_knowledge_god_name_possessive:0 "Xoalcoatl's"
+ cardinal_war_god_name:0 "Meclahua"
+ cardinal_war_god_name_possessive:0 "Meclahua's"
+ cardinal_trickster_god_name:0 "Xoalcoatl"
+ cardinal_trickster_god_name_possessive:0 "Xoalcoatl's"
+ cardinal_night_god_name:0 "$cardinal_war_god_name$"
+ cardinal_night_god_name_possessive:0 "$cardinal_war_god_name_possessive$"
+ cardinal_water_god_name:0 "$cardinal_household_god_name$"
+ cardinal_water_god_name_possessive:0 "$cardinal_household_god_name_possesive$"
+ witchgodname_lunatwa_daode_tianzun:0 "Daode Tianzun"
+ witchgodname_lunatwa_daode_tianzun_possessive:0 "Daode Tianzun's"
+
+ #twin_dragon
+ cardinal:0 "Cardinalism"
+ cardinal_adj:0 "Cardinalist"
+ cardinal_adherent:0 "Cardinalist"
+ cardinal_adherent_plural:0 "Cardilists"
+ cardinal_desc:0 "Founded on the great four cardinal directions - these four are balanced through many rituals to keep them satisfied."
+ 
+ cardinal_positive_afterlife:0 "the afterlife"
+ cardinal_negative_afterlife:0 "the afterlife"

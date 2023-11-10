@@ -1,0 +1,85 @@
+﻿l_english:
+ #Common lunatwa Localization
+ lunatwa_religion:0 "Lunatwa"
+ lunatwa_religion_adj:0 "Lunatwa"
+ lunatwa_religion_adherent:0 "Lunatwan"
+ lunatwa_religion_adherent_plural:0 "Lunatwans"
+ lunatwa_religion_desc:0 "The religion devoted to the worship of the two dragons the sun and the moon its primarly based within Aurlunor VeLynde under the guidence of the Celestial Matrions."
+
+ lunatwa_high_god_name:0 "Sen"
+ lunatwa_high_god_name_2:0 "$lunatwa_high_god_name$" # Optional translation alt
+ lunatwa_high_god_name_possessive:0 "Sen's"
+ lunatwa_high_god_name_alternate:0 "Lyn"
+ lunatwa_high_god_name_alternate_possessive:0 "Lyn's"
+ lunatwa_good_god_name_three_pure_ones:0 "the spirits"
+ lunatwa_devil_name:0 "disharmony"
+ lunatwa_devil_name_possessive:0 "disharmony's"
+ lunatwa_house_of_worship:0 "$paganism_house_of_worship$"
+ lunatwa_house_of_worship_2:0 "$paganism_house_of_worship_2$" # Optional translation alt
+ lunatwa_house_of_worship_3:0 "$paganism_house_of_worship_3$" # Optional translation alt
+ lunatwa_house_of_worship_plural:0 "$paganism_house_of_worship_plural$"
+ lunatwa_religious_symbol:0 "Sen and Lyn"
+ lunatwa_religious_symbol_2:0 "$lunatwa_religious_symbol$" # Optional translation alt
+ lunatwa_religious_symbol_3:0 "$lunatwa_religious_symbol$" # Optional translation alt
+ lunatwa_religious_text:0 "Daozang"
+ lunatwa_religious_text_2:0 "$lunatwa_religious_text$" # Optional translation alt
+ lunatwa_religious_text_3:0 "$lunatwa_religious_text$" # Optional translation alt
+ lunatwa_religious_head_title:0 "Celestial Matrion"
+ lunatwa_religious_head_title_name:0 "Celestial Throne"
+ lunatwa_devotee_male:0 "$lunatwa_devotee_neuter$"
+ lunatwa_devotee_male_plural:0 "$lunatwa_devotee_neuter_plural$"
+ lunatwa_devotee_female:0 "$lunatwa_devotee_neuter$"
+ lunatwa_devotee_female_plural:0 "$lunatwa_devotee_neuter_plural$"
+ lunatwa_devotee_neuter:0 "Lunatwan"
+ lunatwa_devotee_neuter_plural:0 "Lunatwan"
+ lunatwa_priest_male:0 "$lunatwa_devotee_neuter$"
+ lunatwa_priest_male_plural:0 "$lunatwa_devotee_neuter_plural$"
+ lunatwa_priest_female:0 "$lunatwa_devotee_neuter$"
+ lunatwa_priest_female_plural:0 "$lunatwa_devotee_neuter_plural$"
+ lunatwa_priest_neuter:0 "$lunatwa_devotee_neuter$"
+ lunatwa_priest_neuter_plural:0 "$lunatwa_devotee_neuter_plural$"
+ lunatwa_alternate_priest_term_plural:0 "masters"
+ lunatwa_divine_realm:0 "the Veil"
+ lunatwa_divine_realm_2:0 "$lunatwa_divine_realm$" # Optional translation alt
+ lunatwa_divine_realm_3:0 "$lunatwa_divine_realm$" # Optional translation alt
+ lunatwa_positive_afterlife:0 "$lunatwa_divine_realm$"
+ lunatwa_positive_afterlife_2:0 "$lunatwa_divine_realm$" # Optional translation alt
+ lunatwa_positive_afterlife_3:0 "$lunatwa_divine_realm$" # Optional translation alt
+ lunatwa_negative_afterlife:0 "$lunatwa_divine_realm$"
+ lunatwa_negative_afterlife_2:0 "$lunatwa_divine_realm$" # Optional translation alt
+ lunatwa_negative_afterlife_3:0 "$lunatwa_divine_realm$" # Optional translation alt
+
+ lunatwa_creator_god_name:0 "Yuanshi Tianzun the Celestial Venerable of the Primordial Beginning"
+ lunatwa_creator_god_name_possessive:0 "Yuanshi Tianzun the Celestial Venerable of the Primordial Beginning's"
+ lunatwa_health_god_name:0 "Lothranis"
+ lunatwa_health_god_name_possessive:0 "Lothranis's"
+ lunatwa_fertility_god_name:0 "$lunatwa_health_god_name$"
+ lunatwa_fertility_god_name_possessive:0 "$lunatwa_health_god_name_possessive$"
+ lunatwa_wealth_god_name:0 "Lu Tung-pin"
+ lunatwa_wealth_god_name_possessive:0 "Lu Tung-pin's"
+ lunatwa_household_god_name:0 "$lunatwa_knowledge_god_name$"
+ lunatwa_household_god_name_possessive:0 "$lunatwa_knowledge_god_name_possessive$"
+ lunatwa_fate_god_name:0 "$lunatwa_high_god_name$"
+ lunatwa_fate_god_name_possessive:0 "$lunatwa_high_god_name_possessive$"
+ lunatwa_knowledge_god_name:0 "Lao-Tze"
+ lunatwa_knowledge_god_name_possessive:0 "Lao-Tze's"
+ lunatwa_war_god_name:0 "Han Chung-li"
+ lunatwa_war_god_name_possessive:0 "Han Chung-li's"
+ lunatwa_trickster_god_name:0 "$christianity_trickster_god_name$"
+ lunatwa_trickster_god_name_possessive:0 "$christianity_trickster_god_name_possessive$"
+ lunatwa_night_god_name:0 "Ho Hsien-ku"
+ lunatwa_night_god_name_possessive:0 "Ho Hsien-ku's"
+ lunatwa_water_god_name:0 "Shui-kuan"
+ lunatwa_water_god_name_possessive:0 "Shui-kuan's"
+ witchgodname_lunatwa_daode_tianzun:0 "Daode Tianzun"
+ witchgodname_lunatwa_daode_tianzun_possessive:0 "Daode Tianzun's"
+
+ #twin_dragon
+ twin_dragon:0 "Twin Dragon"
+ twin_dragon_adj:0 "Twin Dragon"
+ twin_dragon_adherent:0 "Lunatwa"
+ twin_dragon_adherent_plural:0 "Lunatwas"
+ twin_dragon_desc:0 "The Twin dragon faith is based in aurlunor."
+ 
+ twin_dragon_positive_afterlife:0 "Palace of Grand Darkness"
+ twin_dragon_negative_afterlife:0 "earth-prison"

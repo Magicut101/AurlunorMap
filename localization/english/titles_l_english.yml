@@ -1,0 +1,223 @@
+﻿l_english:
+ TITLE_NAME:1 "$NAME|U$"
+ TITLE_TIERED_NAME:0 "$TIER|U$ of $NAME$"
+ TITLE_DEFINITIVE_NAME:0 "the $TIER|U$ of $NAME$"
+ TITLE_CLAN_TIERED_NAME:0 "the $NAME$ $TIER|U$"
+ TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME:0 "the $NAME$ $TIER|U$ #F ($TIER|U$ of $BASE_NAME$) #!"
+ TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME_DEFINITE_FORM:0 "the $NAME$ $TIER|U$ #F ($BASE_NAME$) #!"
+ TITLE_TIER_AS_NAME:0 "$TIER|U$"
+
+### Empire Titles
+
+e_ryzan:0 "Ryzan"
+e_aurlunor:0 "Aurlunor"
+e_ashura:0 "Ashura"
+e_yulara:0 "Yulara"
+e_almalie:0 "Almalie"
+e_bardonia:0 "Bardonia"
+
+### Our stuff
+
+##Kingdoms
+k_tamaka:0 "Tamaka"
+k_vologda:0 "Vologda"
+k_tossagrad:0 "Tossagrad"
+k_deutzan:0 "Deutzan"
+k_ereketconfederation:0 "Ereket Confederation"
+k_syndiia:0 "Syndiia"
+k_lhumar:0 "Lhumar"
+k_nir:0 "Nir"
+k_alvada:0 "Alvada"
+k_taral:0 "Taral"
+k_dun:0 "Dun"
+k_melwende:0 "Melwende"
+k_maerun:0 "Maerun"
+k_almador:0 "Almador"
+k_vorosan:0 "Vorosan"
+k_hampo:0 "Hampo"
+k_qamiya:0 "Qamiya"
+k_mianditribe:0 "Miandi tribe"
+k_beletea:0 "Beletea"
+k_kabutconfederation:0 "Kabut Confederation"
+k_cornedaofjordlands:0 "Cornedaofjordlands"
+k_arasel:0 "Arasel"
+k_nova_balreska:0 "Nova Balreska"
+k_carthya:0 "Carthya"
+k_vonskyr:0 "Vonksyr"
+k_nebskoslavia:0 "Nebskoslavia"
+k_olthiaca:0 "Remtal"
+
+#Ryzan
+
+d_Lliberium:0 "Liberium"
+d_remtal:0 "Remtal"
+d_gekan:0 "Gekan"
+d_skelyasti:0 "Skelyasti"
+d_carthya:0 "Carthya"
+d_zakhidni:0 "Zakhidni"
+d_xaburya:0 "Xaburya"
+d_nebskoslavia:0 "Nebskoslavia"
+d_neuminster:0 "Neuminster"
+d_kvargrod:0 "Kvargrod"
+d_volkore:0 "Volkoregrod"
+d_erebor:0 "Erebor"
+d_tossagrad:0 "Tossagrad"
+d_shkidnyy:0 "Shkidnyy"
+d_zkhadinyylis:0 "Zkhadinyylis"
+d_nova_balreska:0 "Nova Balreska"
+d_neuheim:0 "Neuheim"
+d_tonton:0 "Tonton"
+
+# Deutzan
+
+d_syros:0 "Syros"
+d_haegiel:0 "Haegiel"
+d_balreska:0 "Balreska"
+
+c_coopers_landing:0 "Coopers Landing"
+
+# tamaka
+
+d_Kaluko:0 "Kaluko"
+d_nekomar:0 "Nekomar"
+d_nantian:0 "Nantian"
+
+#aurlunor
+
+d_lhumar:0 "Lhumar"
+d_hloamar:0 "Hloamar"
+d_dun:0 "Dun"
+d_drakomoindre:0 "Drakomoindre"
+d_Ecir:0 "Ecir"
+d_maerun:0 "Maerun"
+d_almador:0 "Almador"
+d_Taure:0 "Taure"
+d_fanamar:0 "Fanamar"
+d_grandtemple:0 "Grand Temple"
+d_natsuragitagi:0 "Natsuragitagi"
+d_valdamar:0 "Valdamar"
+d_lunwirmar:0 "Lunwirmar"
+d_easterndun:0 "Eastern Dun"
+d_FortLingrewe:0 "Fort Lingrewe"
+d_karneihua:0 "Karneihua"
+
+c_dun:0 "Dun"
+c_dun_adj:0 "Dunish"
+
+c_Maerun:0 "Maerun"
+c_Maerun:0 "Maerunei"
+
+c_TheLilyPad:0 Lilypad
+c_TheLilyPad_adj:0 Lilypadian
+
+c_Umbravien:0 "Umbravien"
+c_Umbravien_adj:0 "Umbravite"
+
+
+#Ashura
+d_northernriver:0 "Northern River"
+d_westernhills:0 "Western Hills"
+d_easternwastes:0 "Eastern Wastes"
+d_erekettribe:0 "Ereket Tribe"
+d_Hiarllia:0 "Hiarllia"
+d_northernperiphary:0 "Northern Periphary"
+d_pimedjay:0 "Pimedjay"
+d_miandigateway:0 "Miandi Gateway"
+d_sarapalar:0 "Sarapalar"
+d_KadutTribe:0 "Kadut Tribe"
+d_AnandorErume:0 "Anandor Erume"
+d_tyalu:0 "Tyalu"
+d_westernwastes:0 "Western Wastes"
+d_sarlatova:0 "Sarlatova"
+d_lavar:0 "Lavar"
+d_elsawiya:0 "Elsawiya"
+d_gottrick:0 "Gottrick"
+
+# Hampo
+d_pripyat:0 "Pripyat"
+d_ruscon:0 "Ruscon"
+d_liyenplains:0 "Liyenplains"
+d_kalinei:0 "Kalinei"
+d_necua:0 "Necua"
+d_hamenda:0 "Hamenda"
+
+d_umbravien:0 "Umbravien"
+d_melwende:0 "Melwende"
+d_timberexpanse:0 "Timber Expanse"
+d_morcoronor:0 "Morcoronor"
+
+d_qamiya:0 "Qamiya"
+d_khamen:0 "Khamen"
+d_yenedu:0 "Yenedu"
+d_Tahat:0 "Tahat"
+
+d_vologdan_knighthood:0 "Vologdan Knighthood"
+
+c_Vologda:0 "Vologda"
+c_Vologda_adj:0 "Vologdan"
+c_NorthVologda:0 "Northern Vologda"
+c_PheonoxianExodus:0 "Phoenixian Exodus"
+c_VologdanMarshes:0 "Vologdan Marsh"
+c_Spurdo_Tower:0 "Spurdo's Tower"
+
+b_Spurdo_Tower:0 "Spurdo's Tower"
+
+c_lhumar:0 "Lhumar"
+
+c_Hloamar:0 "Hloamar"
+
+c_Orenia:0 "Orenia"
+c_Orenia_adj:0 "Orenian"
+
+c_Duckisland:0 "Duck Island"
+
+c_Darrowgrod:0 "Darrowgrod"
+
+c_Balreska:0 "Balreska"
+c_Haegiel:0 "Haegiel"
+c_tossagrad:0 "Tossagrad"
+c_Mocogrod:0 "Mocogrod"
+c_Duckisland:0 "Duck Island"
+c_Khirov:0 "Khirov"
+c_Tossaroki:0 "Tossaroki"
+c_ForeignQuarter:0 "Foreign Quarter"
+c_Nova_balreska:0 "Nova Balreska"
+c_Neuheim:0 "Neuheim"
+c_Tonton:0 "Tonton"
+c_Astor:0 "Astor"
+c_Slime_host:0 "Slime Host"
+
+c_Kaluko:0 "Kaluko"
+c_nekomar:0 "Nekomar"
+c_NantianMonastary:0 "Nantian Monastary"
+c_Zalisko:0 "Zaliskrow"
+c_Que:0 "Que"
+c_Baylis:0 "Baylis"
+c_Ajmenkol:0 "Ajmenkol"
+c_Levanese:0 "Levanese"
+
+c_Qamiya:0 "Qamiya"
+
+#Yulara
+
+k_ib:0 "Ib"
+k_valle:0 "Valle"
+k_ostia:0 "Ostia"
+k_khaset:0 "Khaset"
+
+#Kingdom of Ib counties
+d_dragoonia:0 "Dragoonia"
+d_luperkania:0 "Luperkania"
+d_taranbak:0 "Taran'Bak"
+d_riverrun:0 "Riverrun"
+d_valle:0 "Valle"
+d_ostia:0 "Ostia"
+d_heliosion:0 "Heliosion"
+d_khaset:0 "Khaset"
+d_abaton:0 "Abaton"
+d_poiaborrea:0 "Poiaborrea"
+c_Dragoonios:0 "Dragoonios"
+
+
+
+### Basegame stuff ###

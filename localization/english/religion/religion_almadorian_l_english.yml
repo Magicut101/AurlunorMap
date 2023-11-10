@@ -1,0 +1,85 @@
+﻿l_english:
+ #Common almadorian Localization
+ almadorian_religion:0 "Almadorian"
+ almadorian_religion_adj:0 "Almadorian"
+ almadorian_religion_adherent:0 "Almadorian"
+ almadorian_religion_adherent_plural:0 "Almadorians"
+ almadorian_religion_desc:0 "Considered one of the oldest religions in Syltor, the rising of Lunatwa has brought it down and led to its heavy persecution, but the recent shattering of Aurlunor has given the oppressed religion a second chance."
+
+ almadorian_high_god_name:0 "Orzen"
+ almadorian_high_god_name_2:0 "$lunatwa_high_god_name$" # Optional translation alt
+ almadorian_high_god_name_possessive:0 "Orzen's"
+ almadorian_high_god_name_alternate:0 "Orzen"
+ almadorian_high_god_name_alternate_possessive:0 "Orzen's"
+ almadorian_good_god_name_three_pure_ones:0 "the Three Creators"
+ almadorian_devil_name:0 "Entropy"
+ almadorian_devil_name_possessive:0 "Entropy's"
+ almadorian_house_of_worship:0 "$paganism_house_of_worship$"
+ almadorian_house_of_worship_2:0 "$paganism_house_of_worship_2$" # Optional translation alt
+ almadorian_house_of_worship_3:0 "$paganism_house_of_worship_3$" # Optional translation alt
+ almadorian_house_of_worship_plural:0 "$paganism_house_of_worship_plural$"
+ almadorian_religious_symbol:0 "the Divine Pheonix"
+ almadorian_religious_symbol_2:0 "$almadorian_religious_symbol$" # Optional translation alt
+ almadorian_religious_symbol_3:0 "$almadorian_religious_symbol$" # Optional translation alt
+ almadorian_religious_text:0 "the Malara"
+ almadorian_religious_text_2:0 "$almadorian_religious_text$" # Optional translation alt
+ almadorian_religious_text_3:0 "$almadorian_religious_text$" # Optional translation alt
+ almadorian_religious_head_title:0 "Chosen"
+ almadorian_religious_head_title_name:0 "Three's Chosen"
+ almadorian_devotee_male:0 "$almadorian_devotee_neuter$"
+ almadorian_devotee_male_plural:0 "$almadorian_devotee_neuter_plural$"
+ almadorian_devotee_female:0 "$almadorian_devotee_neuter$"
+ almadorian_devotee_female_plural:0 "$almadorian_devotee_neuter_plural$"
+ almadorian_devotee_neuter:0 "Almadorian"
+ almadorian_devotee_neuter_plural:0 "Almadorian"
+ almadorian_priest_male:0 "$almadorian_devotee_neuter$"
+ almadorian_priest_male_plural:0 "$almadorian_devotee_neuter_plural$"
+ almadorian_priest_female:0 "$almadorian_devotee_neuter$"
+ almadorian_priest_female_plural:0 "$almadorian_devotee_neuter_plural$"
+ almadorian_priest_neuter:0 "$almadorian_devotee_neuter$"
+ almadorian_priest_neuter_plural:0 "$almadorian_devotee_neuter_plural$"
+ almadorian_alternate_priest_term_plural:0 "priest"
+ almadorian_divine_realm:0 "Celena"
+ almadorian_divine_realm_2:0 "$almadorian_divine_realm$" # Optional translation alt
+ almadorian_divine_realm_3:0 "$almadorian_divine_realm$" # Optional translation alt
+ almadorian_positive_afterlife:0 "$almadorian_divine_realm$"
+ almadorian_positive_afterlife_2:0 "$almadorian_divine_realm$" # Optional translation alt
+ almadorian_positive_afterlife_3:0 "$almadorian_divine_realm$" # Optional translation alt
+ almadorian_negative_afterlife:0 "Nixamor"
+ almadorian_negative_afterlife_2:0 "the plane beneath the bedrock" # Optional translation alt
+ almadorian_negative_afterlife_3:0 "Home of Darkness" # Optional translation alt
+
+ almadorian_creator_god_name:0 "Orzen, God of Light"
+ almadorian_creator_god_name_possessive:0 "Orzen's"
+ almadorian_health_god_name:0 "Galariel"
+ almadorian_health_god_name_possessive:0 "Galariel's"
+ almadorian_fertility_god_name:0 "$almadorian_health_god_name$"
+ almadorian_fertility_god_name_possessive:0 "$almadorian_health_god_name_possessive$"
+ almadorian_wealth_god_name:0 "Minsen"
+ almadorian_wealth_god_name_possessive:0 "Minsen's"
+ almadorian_household_god_name:0 "$almadorian_wealth_god_name$"
+ almadorian_household_god_name_possessive:0 "$almadorian_wealth_god_name_possessive$"
+ almadorian_fate_god_name:0 "Xalos"
+ almadorian_fate_god_name_possessive:0 "Xalos's"
+ almadorian_knowledge_god_name:0 "Hocar"
+ almadorian_knowledge_god_name_possessive:0 "Hocari's"
+ almadorian_war_god_name:0 "Ivari"
+ almadorian_war_god_name_possessive:0 "Ivari's"
+ almadorian_trickster_god_name:0 "Nixaden"
+ almadorian_trickster_god_name_possessive:0 "Nixaden's"
+ almadorian_night_god_name:0 "$almadorian_trickster_god_name$"
+ almadorian_night_god_name_possessive:0 "$almadorian_trickster_god_name_possessive$"
+ almadorian_water_god_name:0 "Lynari"
+ almadorian_water_god_name_possessive:0 "Lynari's"
+ witchgodname_almadorian_daode_tianzun:0 "Daode Tianzun"
+ witchgodname_almadorian_daode_tianzun_possessive:0 "Daode Tianzun's"
+
+ #Almadorian
+ almadorian:0 "Almadorian"
+ almadorian_adj:0 "Almadorian"
+ almadorian_adherent:0 "Almadorian"
+ almadorian_adherent_plural:0 "Almadorians"
+ almadorian_desc:0 "The original religion of the elves before being overthrown by Lunatwa, it follows Orzen and the Three Creators."
+ 
+ almadorian_positive_afterlife:0 "the Heavens"
+ almadorian_negative_afterlife:0 "the Nixadon"
