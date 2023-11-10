@@ -1,0 +1,6 @@
+﻿headgear_religious = {
+
+	usage = game
+	selection_behavior = weighted_random
+	priority = 3
+}

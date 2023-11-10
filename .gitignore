@@ -1,9 +1,3 @@
-/common
-/content_source
-/descriptor.mod
-/gfx
-/gui
-/history
-/localization
-/map_data
 /mslearn-demo
+gfx/map/terrain/detail_index.tga
+gfx/map/terrain/detail_intensity.tga

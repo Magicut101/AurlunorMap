@@ -1,0 +1,7 @@
+﻿clothes_religious = { # All clothes triggers are found in 00_clothing_triggers.txt
+
+    usage = game
+    selection_behavior = weighted_random
+    priority = 3
+
+}
