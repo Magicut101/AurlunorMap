@@ -25,12 +25,12 @@
 			save_scope_as = title_d_westernswastes
 			set_de_jure_liege_title = title:k_erume
 		}
-		title:d_KadutTribe = {
-			save_scope_as = title_d_KadutTribe
+		title:d_kaduttribe = {
+			save_scope_as = title_d_kaduttribe
 			set_de_jure_liege_title = title:k_erume
 		}
-		title:d_AnandorErume = {
-			save_scope_as = title_d_AnandorErume
+		title:d_anandorerume = {
+			save_scope_as = title_d_anandorerume
 			set_de_jure_liege_title = title:k_erume
 		}
 		title:k_erume = {

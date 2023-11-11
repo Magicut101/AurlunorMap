@@ -1,6 +1,6 @@
 600016 = {
 	name = "Azan"
-	dynasty = 30000012 # shear
+	dynasty = 30000012 # shaer
 	religion = "ashuran_pantheon"
 	culture = "ashuran"
 	trait = patient

@@ -79,29 +79,6 @@ e_ashura = {
 				add = @correct_culture_primary_score
 			}
 		}
-		d_canarias = {
-			color = {
-				42
-				127
-				201
-			}
-			capital = c_canarias			# Gran Canaria
-			c_canarias = {
-				color = {
-					22
-					107
-					181
-				}
-				b_grancanaria = {
-					province = 1
-					color = {
-						22
-						107
-						181
-					}
-				}
-			}
-		}
 		d_qamiya = {
 			color = {
 				3
@@ -2486,7 +2463,7 @@ e_ashura = {
 			136
 		}
 		capital = c_Listemeril
-		d_KadutTribe = {
+		d_kaduttribe = {
 			color = {
 				23
 				8
@@ -2687,7 +2664,7 @@ e_ashura = {
 				}
 			}
 		}
-		d_AnandorErume = {
+		d_anandorerume = {
 			color = {
 				9
 				48
@@ -2870,7 +2847,7 @@ e_ashura = {
 			99
 		}
 		capital = c_Chichiltik
-		d_Hiarllia = {
+		d_hiarllia = {
 			color = {
 				34
 				72
@@ -2956,7 +2933,7 @@ e_ashura = {
 				}
 			}
 		}
-		d_Tahat = {
+		d_tahat = {
 			color = {
 				70
 				42
@@ -3639,7 +3616,7 @@ e_ryzan = {
 			100
 		}
 		capital = c_Tossagrad
-		d_zkhadinyyLis = {
+		d_zkhadinyylis = {
 			color = {
 				48
 				24
@@ -5114,7 +5091,7 @@ e_ryzan = {
 			99
 		}
 		capital = c_Volkoregrod
-		d_Volkore = {
+		d_volkore = {
 			color = {
 				196
 				191
@@ -5325,7 +5302,7 @@ e_ryzan = {
 				}
 			}
 		}
-		d_Erebor = {
+		d_erebor = {
 			color = {
 				198
 				147
@@ -5465,7 +5442,7 @@ e_ryzan = {
 				}
 			}
 		}
-		d_Kvargrod = {
+		d_kvargrod = {
 			color = {
 				181
 				161
@@ -8013,7 +7990,7 @@ e_aurlunor = {
 			39
 		}
 		capital = c_Maerun
-		d_Maerun = {
+		d_maerun = {
 			color = {
 				187
 				189
@@ -8509,7 +8486,7 @@ e_aurlunor = {
 				}
 			}
 		}
-		d_FortLingrewe = {
+		d_fortlingrewe = {
 			color = {
 				99
 				74
@@ -12003,7 +11980,7 @@ e_almalie = {
 				}
 			}
 		}
-		d_Ecir = {
+		d_ecir = {
 			color = {
 				104
 				87
@@ -12223,7 +12200,7 @@ e_almalie = {
 				}
 			}
 		}
-		d_Taure = {
+		d_taure = {
 			color = {
 				222
 				86
@@ -12870,7 +12847,7 @@ e_almalie = {
 				}
 			}
 		}
-		d_Kaluko = {
+		d_kaluko = {
 			cultural_names = {
 				name_list_italian = cn_quackomar
 				name_list_han = cn_quackomar
