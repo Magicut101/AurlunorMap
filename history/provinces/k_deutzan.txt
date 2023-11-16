@@ -145,7 +145,7 @@
 	holding = none
 }
 
-#C_Syros
+#c_Syros
 280 = {
 	culture = syrosi
 	religion = tossanism

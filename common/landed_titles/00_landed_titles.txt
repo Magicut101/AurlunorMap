@@ -61,7 +61,7 @@ e_ashura = {
 		definite_form = yes
 		capital = c_ElSawiya
 	}
-	k_qamiya = {
+	k_qamiya = {a
 		can_be_named_after_dynasty = no
 		color = {
 			255
@@ -3334,7 +3334,7 @@ e_ryzan = {
 					}
 				}
 			}
-			c_syros = {
+			c_Syros = {
 				color = {
 					77
 					235
@@ -13141,21 +13141,21 @@ e_yulara = {
 		80
 		21
 	}
-	capital = c_Dragoonia
+	capital = c_Dragoonios
 	k_ib = {
 		color = {
 			231
 			80
 			21
 		}
-		capital = c_Dragoonia
+		capital = c_Dragoonios
 		d_dragoonia = {
 			color = {
 				231
 				80
 				21
 			}
-			capital = c_Dragoonia
+			capital = c_Dragoonios
 			c_Dragoonios = {
 				color = {
 					231

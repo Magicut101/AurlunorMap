@@ -21,6 +21,7 @@ sea_zones = LIST { 2 } #French & Iberian atlantic coasts
 sea_zones = RANGE {	814 863}
 sea_zones = LIST {897 898}
 sea_zones = RANGE {1484 1518}
+sea_zones = RANGE {1856 1885}
 
 ###############
 # MAJOR RIVERS

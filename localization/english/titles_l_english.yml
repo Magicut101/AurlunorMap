@@ -47,9 +47,38 @@ k_vonskyr:0 "Vonksyr"
 k_nebskoslavia:0 "Nebskoslavia"
 k_olthiaca:0 "Remtal"
 
+#Bardonia
+k_newdorasterrock:0 "New Dorasterrock"
+k_solanarium:0 "Solanarium"
+ 
+d_solanarium:0 "Solanum"
+d_klippen:0 "Steinborg"
+d_patania:0 "Patania"
+d_ludrues:0 "Lundreus"
+d_mid:0 "Madman's Range"
+d_newdorasterrock:0 "New Dorasterrock"
+d_sanctuary:0 "Sanctuary"
+d_aelteria:0 "Aelterum"
+d_vasteria:0 "Vasterinum"
+d_virothen:0 "Virothen"
+d_medici:0 "Medici"
+d_trost:0 "Trost"
+d_annunor:0 "Annunor"
+d_yuzhen:0 "Risshun"
+d_monstagnum:0 "Monstagnum"
+d_auron:0 "North Auron"
+d_septa:0 "Septanum"
+d_lobopolis:0 "Lobopolis"
+d_fluenta:0 "Fluentan Republic"
+d_dorasterrock:0 "Dorasterrock"
+d_nuovarosa:0 "Eastreach"
+d_vologda:0 "Vologda"
+
+
+
 #Ryzan
 
-d_Lliberium:0 "Liberium"
+d_liberium:0 "Highguard"
 d_remtal:0 "Remtal"
 d_gekan:0 "Gekan"
 d_skelyasti:0 "Skelyasti"
@@ -100,9 +129,10 @@ d_lunwirmar:0 "Lunwirmar"
 d_easterndun:0 "Eastern Dun"
 d_fortlingrewe:0 "Fort Lingrewe"
 d_karneihua:0 "Karneihua"
+d_linyemar:0 "Luyangmar"
 
-c_dun:0 "Dun"
-c_dun_adj:0 "Dunish"
+c_Dun:0 "Dun"
+c_Dun_adj:0 "Dunish"
 
 c_Maerun:0 "Maerun"
 c_Maerun:0 "Maerunei"
